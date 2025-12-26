@@ -15,7 +15,7 @@
     "title": "The Quake",
     "year": "2018",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/94430.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/25CMfm6B/315x420-2689eae4dca139910a62007124b098b2ef8e16cd18c95d20abde3a955f8b7935.jpg",
     "description": "فيلم كوارث عن زلزال مدمر في النرويج",
     "category": "إثارة",
     "duration": "106 دقيقة",
@@ -27,7 +27,7 @@
     "title": "Young Guns",
     "year": "1988",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/222095.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/0NHTGFkr/315x420-c2940cf9286b65653a976f476decaab4e8e55942e864eee448bea03ab3bac543.jpg",
     "description": "فيلم غرب أمريكي عن مجموعة من الصيادين",
     "category": "غرب أمريكي",
     "duration": "107 دقيقة",
@@ -1561,5 +1561,6 @@
   }
 
 ]
+
 
 
