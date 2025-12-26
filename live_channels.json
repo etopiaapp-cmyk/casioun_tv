@@ -3886,7 +3886,7 @@
     "category": "قنوات إيطالية",
     "quality": "SD",
     "isHD": false
-  },
+  }
   {
     "id": "c433",
     "name": "Rai4",
@@ -6264,6 +6264,7 @@
     "isHD": true
   }
 ]
+
 
 
 
