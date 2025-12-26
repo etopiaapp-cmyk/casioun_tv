@@ -3860,7 +3860,7 @@
     "quality": "SD",
     "isHD": false
   },
-  {
+   {
     "id": "c430",
     "name": "Rai1",
     "image": "assets/Image_live/LIVE.png",
@@ -3868,8 +3868,8 @@
     "category": "قنوات إيطالية",
     "quality": "SD",
     "isHD": false
-  }
-  
+  },
+  {
     "id": "c431",
     "name": "Rai2",
     "image": "assets/Image_live/LIVE.png",
@@ -3878,7 +3878,7 @@
     "quality": "SD",
     "isHD": false
   },
-  {
+]
     "id": "c432",
     "name": "Rai3",
     "image": "assets/Image_live/LIVE.png",
@@ -6264,6 +6264,7 @@
     "isHD": true
   }
 ]
+
 
 
 
