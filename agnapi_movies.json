@@ -3,7 +3,7 @@
     "title": "District B13 FR",
     "year": "2004",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/499251.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/zDRL9Hc9/315x420-d26c37616bc5fe538afd67eeb4655000cc5a0baff380bc0fd300e9a2c7200d53.jpg",
     "description": "فيلم أكشن فرنسي عن باركور في أحياء باريس",
     "category": "أكشن",
     "duration": "84 دقيقة",
@@ -15,7 +15,7 @@
     "title": "The Quake",
     "year": "2018",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/94430.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/25CMfm6B/315x420-2689eae4dca139910a62007124b098b2ef8e16cd18c95d20abde3a955f8b7935.jpg",
     "description": "فيلم كوارث عن زلزال مدمر في النرويج",
     "category": "إثارة",
     "duration": "106 دقيقة",
@@ -1560,6 +1560,7 @@
     "rating": 4.1
 
 ]
+
 
 
 
