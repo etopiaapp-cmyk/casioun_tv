@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c1",
+    "name": "BEIN SPORT 1 MINI 512K",
+    "imageUrl": "assets/Image_live/LIVE.png",
+    "streamUrl": "https://es.egys.gs/qasiountv/qasiountv/194432.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "MINI 512K",
+    "isHD": false
+  },
+  {
+    "id": "c2",
+    "name": "BEIN SPORT 2 MINI 512K",
+    "imageUrl": "assets/Image_live/LIVE.png",
+    "streamUrl": "https://es.egys.gs/qasiountv/qasiountv/618157.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "MINI 512K",
+    "isHD": false
+  }
+]
