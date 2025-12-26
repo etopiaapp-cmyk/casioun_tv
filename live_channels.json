@@ -2960,21 +2960,21 @@
     "quality": "SD",
     "isHD": false
   },
-  {
-    "id": "c330",
-    "name": "AL Sa3aa Drama",
+    {
+    "id": "c430",
+    "name": "Rai1",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1565.m3u8",
-    "category": "دراما",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/359.m3u8",
+    "category": "قنوات إيطالية",
     "quality": "SD",
     "isHD": false
   },
   {
-    "id": "c331",
-    "name": "AL Sa3aa Classic",
+    "id": "c431",
+    "name": "Rai2",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1564.m3u8",
-    "category": "أفلام",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/358.m3u8",
+    "category": "قنوات إيطالية",
     "quality": "SD",
     "isHD": false
   },
@@ -6264,6 +6264,7 @@
     "isHD": true
   }
 ]
+
 
 
 
