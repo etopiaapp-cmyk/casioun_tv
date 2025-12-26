@@ -7289,5 +7289,4505 @@
     "category": "أطفال",
     "quality": "SD",
     "isHD": false
+  },
+  {
+   "id": "c801",
+    "name": "Nick Jr",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/434.m3u8",
+    "category": "أطفال",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c802",
+    "name": "MBC Iraq HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1643.m3u8",
+    "category": "قنوات العراق",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c803",
+    "name": "Rotana Khalijia",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1673.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c804",
+    "name": "Rotana Clip",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1669.m3u8",
+    "category": "موسيقى",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c805",
+    "name": "Al Baghdadia",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2211.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c806",
+    "name": "AL Sharqiya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2210.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c807",
+    "name": "Al Iraqia",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2208.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c808",
+    "name": "NRT Arabic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2204.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c809",
+    "name": "Al Maghribia",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2197.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c810",
+    "name": "Arryadia HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2196.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c811",
+    "name": "2M Monde",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2195.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c812",
+    "name": "Tunisie National 1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2191.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c813",
+    "name": "AD Sport 1 HD (ASIA)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/793408.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c814",
+    "name": "AD Sport 2 HD (ASIA)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/99979.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c815",
+    "name": "Alkass 5 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1129.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c816",
+    "name": "BEIN SPORT 1 FR HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/841.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c817",
+    "name": "BEIN SPORT 2 FR HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/840.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c818",
+    "name": "BEIN SPORT 3 FR HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/839.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c819",
+    "name": "RMC Sport 1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/803.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c820",
+    "name": "RMC Sport 2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/802.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c821",
+    "name": "M.Liga.De.Campeones HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/629.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c822",
+    "name": "Bein Sports La Liga HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/594.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c823",
+    "name": "DAZN 1 Bar HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/591.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c824",
+    "name": "DAZN 2 Bar HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/590.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c825",
+    "name": "LaLiga TV Hypermotion HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/588.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c826",
+    "name": "Real Madrid TV HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/583.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c827",
+    "name": "Bein Sports 1 TR HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/526.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c828",
+    "name": "Bein Sports 2 TR HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/525.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c829",
+    "name": "Bein Sports 3 TR HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/524.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c830",
+    "name": "Bein Sports 4 TR HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/523.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c831",
+    "name": "Tivibu Spor 1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/521.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c832",
+    "name": "Tivibu Spor 2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/520.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c833",
+    "name": "Sky Sport Uno HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/340.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c834",
+    "name": "Sky Sport Football HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/338.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c835",
+    "name": "Sky Sport Arena HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/337.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c836",
+    "name": "Sky Sport Tennis HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/336.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c837",
+    "name": "Sky Sport F1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/335.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c838",
+    "name": "Sport Italia HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/334.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c839",
+    "name": "Fox Sports 1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/307.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c840",
+    "name": "Fox Sports 2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/306.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c841",
+    "name": "Fox Sports 4 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/304.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c842",
+    "name": "Fox Sports 5 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/303.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c843",
+    "name": "Fox Sports 6 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/302.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c844",
+    "name": "Al Jazeera Mubasher",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1703.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c845",
+    "name": "TRT Arabi",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1704.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c846",
+    "name": "Russia Today Arabic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1702.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c847",
+    "name": "France 24 Arabic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1701.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c848",
+    "name": "Al Araby 2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1711.m3u8",
+    "category": "عامة",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c849",
+    "name": "Sharjah TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1442.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c850",
+    "name": "Syria News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1351.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c851",
+    "name": "Yemen Today",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2234.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c852",
+    "name": "Al Saeeda",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2233.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c853",
+    "name": "Yemen Shabab",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2232.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c854",
+    "name": "Al Mahriah",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2231.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c855",
+    "name": "Belqees TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2230.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c856",
+    "name": "Suhail TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2229.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c857",
+    "name": "Al Hawajah",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2228.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c858",
+    "name": "Al Yemen",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2227.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c859",
+    "name": "Aden TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2226.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c860",
+    "name": "Al Masirah",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2225.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c861",
+    "name": "Sheba TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2224.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c862",
+    "name": "Hadramout TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2223.m3u8",
+    "category": "قنوات اليمن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c863",
+    "name": "Al Eman TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2222.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c864",
+    "name": "Al Araby",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2221.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c865",
+    "name": "Mekameleen",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2220.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c866",
+    "name": "Al Sharq",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2219.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c867",
+    "name": "Watan TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2218.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c868",
+    "name": "Al Shabab",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2217.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c869",
+    "name": "Al Rafidain",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2216.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c870",
+    "name": "Al Fallujah",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2215.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c871",
+    "name": "UTV Iraq",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2214.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c872",
+    "name": "Dijlah TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2213.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c873",
+    "name": "Al Hurra",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2212.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c874",
+    "name": "Assadissa (المغرب)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2201.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c875",
+    "name": "Tamazight (المغرب)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2200.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c876",
+    "name": "Medi 1 TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2199.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c877",
+    "name": "Al Aoula",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2198.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c878",
+    "name": "Al Maghribia (المغرب)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2197.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c879",
+    "name": "Arryadia",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2196.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c880",
+    "name": "2M Monde",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2195.m3u8",
+    "category": "قنوات مغربية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c881",
+    "name": "TV Algerie",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2194.m3u8",
+    "category": "قنوات جزائرية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c882",
+    "name": "Canal Algerie",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2193.m3u8",
+    "category": "قنوات جزائرية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c883",
+    "name": "El Heddaf TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2192.m3u8",
+    "category": "قنوات جزائرية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c884",
+    "name": "Tunisie National 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2191.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c885",
+    "name": "Tunisie National 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2190.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c886",
+    "name": "Hannibal TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2189.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c887",
+    "name": "Attessia TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2188.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c888",
+    "name": "El Hiwar Ettounsi",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2187.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c889",
+    "name": "Nessma TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2186.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c890",
+    "name": "Carthage Plus",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2185.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c891",
+    "name": "Al Janoubiya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2184.m3u8",
+    "category": "قنوات تونسية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c892",
+    "name": "Zitouna TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2183.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c893",
+    "name": "SSC NEWS HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1802.m3u8",
+    "category": "أخبار",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c894",
+    "name": "SSC 1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1801.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c895",
+    "name": "SSC 2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1800.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c896",
+    "name": "SSC 3 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1799.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c897",
+    "name": "SSC 4 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1798.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c898",
+    "name": "SSC 5 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1797.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c899",
+    "name": "SSC EXTRA 1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1796.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c900",
+    "name": "SSC EXTRA 2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1795.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c901",
+    "name": "SSC EXTRA 3 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1794.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c902",
+    "name": "SSC NEWS SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1793.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c903",
+    "name": "SSC 1 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1792.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c904",
+    "name": "SSC 2 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1791.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c905",
+    "name": "SSC 3 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1790.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c906",
+    "name": "SSC 4 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1789.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c907",
+    "name": "SSC 5 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1788.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c908",
+    "name": "SSC EXTRA 1 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1787.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c909",
+    "name": "SSC EXTRA 2 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1786.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c910",
+    "name": "SSC EXTRA 3 SD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1785.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c911",
+    "name": "Quran TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1779.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c912",
+    "name": "Sunnah TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1778.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c913",
+    "name": "Al Majd",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1777.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c914",
+    "name": "Al Majd Quran",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1776.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c915",
+    "name": "Al Majd Hadith",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1775.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c916",
+    "name": "Iqraa TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1774.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c917",
+    "name": "Al Resalah",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1773.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c918",
+    "name": "Al Majd Quran HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1772.m3u8",
+    "category": "دينية",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c919",
+    "name": "Mecca",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1771.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c920",
+    "name": "Makkah Live",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1770.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c921",
+    "name": "Madinah Live",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1769.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c922",
+    "name": "Al Sunnah Al Nabawiyah HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1768.m3u8",
+    "category": "دينية",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c923",
+    "name": "AL Quran AL Karim HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1767.m3u8",
+    "category": "دينية",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c924",
+    "name": "Nat Geo Abu Dhabi",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1755.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c925",
+    "name": "Nat Geo Wild",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1754.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c926",
+    "name": "Nat Geo People",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1753.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c927",
+    "name": "Animal Planet",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1752.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c928",
+    "name": "Discovery Science",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1751.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c929",
+    "name": "Discovery Channel",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1750.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c930",
+    "name": "Nat Geo Wild HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1749.m3u8",
+    "category": "وثائقي",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c931",
+    "name": "Discovery Science HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1748.m3u8",
+    "category": "وثائقي",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c932",
+    "name": "Animal Planet HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1747.m3u8",
+    "category": "وثائقي",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c933",
+    "name": "History Channel HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1746.m3u8",
+    "category": "وثائقي",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c934",
+    "name": "BBC Earth HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1745.m3u8",
+    "category": "وثائقي",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c935",
+    "name": "Discovery ID HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1744.m3u8",
+    "category": "وثائقي",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c936",
+    "name": "Quest Arabiya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1743.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c937",
+    "name": "Al Jazeera Documentary",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1742.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c938",
+    "name": "Al Araby 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1711.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c939",
+    "name": "Sky News Arabia",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1710.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c940",
+    "name": "Al Jazeera News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1709.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c941",
+    "name": "Al Jazeera English",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1708.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c942",
+    "name": "Al Jazeera Documentary",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1707.m3u8",
+    "category": "وثائقي",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c943",
+    "name": "Al Arabiya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1706.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c944",
+    "name": "BBC Arabic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1705.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c945",
+    "name": "TRT Arabi",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1704.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c946",
+    "name": "Al Jazeera Mubasher",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1703.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c947",
+    "name": "Russia Today Arabic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1702.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c948",
+    "name": "France 24 Arabic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1701.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c949",
+    "name": "CN Arabic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1727.m3u8",
+    "category": "أطفال",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c950",
+    "name": "Spacetoon",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1693.m3u8",
+    "category": "أطفال",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c951",
+    "name": "MBC 3",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1650.m3u8",
+    "category": "أطفال",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c952",
+    "name": "Rotana Kids",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1665.m3u8",
+    "category": "أطفال",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c953",
+    "name": "Rotana Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1670.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c954",
+    "name": "Rotana Classic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1667.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c955",
+    "name": "Rotana Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1666.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c956",
+    "name": "MBC 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1663.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c957",
+    "name": "MBC 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1662.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c958",
+    "name": "MBC 4",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1661.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c959",
+    "name": "MBC 5",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1660.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c960",
+    "name": "MBC Action",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1659.m3u8",
+    "category": "أفلام رعب وأكشن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c961",
+    "name": "MBC Bollywood",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1658.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c962",
+    "name": "MBC Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1652.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c963",
+    "name": "MBC Masr",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1641.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c964",
+    "name": "MBC Masr 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1651.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c965",
+    "name": "MBC MAX",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1654.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c966",
+    "name": "MBC Iraq",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1643.m3u8",
+    "category": "قنوات العراق",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c967",
+    "name": "DMC",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1623.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c968",
+    "name": "DMC Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1622.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c969",
+    "name": "CBC",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1620.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c970",
+    "name": "CBC Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1619.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c971",
+    "name": "CBC Sofra",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1618.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c972",
+    "name": "ON E",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1617.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c973",
+    "name": "ON Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1616.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c974",
+    "name": "Al Hayat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1613.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c975",
+    "name": "Al Hayat Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1612.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c976",
+    "name": "Al Kahera Wal Nas",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1611.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c977",
+    "name": "Al Kahera Wal Nas 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1610.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c978",
+    "name": "Sada El Balad",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1609.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c979",
+    "name": "Sada El Balad 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1608.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c980",
+    "name": "Sada El Balad Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1607.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c981",
+    "name": "Mehwar",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1606.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c982",
+    "name": "TeN TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1605.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c983",
+    "name": "Al Asimah",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1604.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c984",
+    "name": "Al Nahar",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1603.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c985",
+    "name": "Al Nahar Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1602.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c986",
+    "name": "Al Shams",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1601.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c987",
+    "name": "Al Hadath Al Youm",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1600.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c988",
+    "name": "ETC TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1599.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c989",
+    "name": "Madeeh",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1598.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c990",
+    "name": "Nile TV International",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1597.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c991",
+    "name": "Nile News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1596.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c992",
+    "name": "Nile Family",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1595.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c993",
+    "name": "Nile Life",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1594.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c994",
+    "name": "Nile Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1593.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c995",
+    "name": "Nile Comedy",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1592.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c996",
+    "name": "Nile Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1590.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c997",
+    "name": "Apple Aflam",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1589.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c998",
+    "name": "Apple Al Youm",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1588.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c999",
+    "name": "Apple Comedy",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1587.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1000",
+    "name": "Apple Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1586.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1001",
+    "name": "Apple Musalslat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1585.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1002",
+    "name": "Apple Hekayat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1584.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1003",
+    "name": "TokTok Aflam",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1583.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1004",
+    "name": "TokTok Cima",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1582.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1005",
+    "name": "Cinema 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1581.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1006",
+    "name": "Cinema 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1580.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1007",
+    "name": "Star Cinema 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1579.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1008",
+    "name": "Star Cinema 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1578.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1009",
+    "name": "PNC Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1577.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1010",
+    "name": "PNC Drama 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1576.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1011",
+    "name": "PNC Film",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1575.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1012",
+    "name": "PNC Food",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1574.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1013",
+    "name": "PNC Today",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1573.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1014",
+    "name": "Family Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1572.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1015",
+    "name": "Family Hikayat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1571.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1016",
+    "name": "Family Musalsalat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1570.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1017",
+    "name": "Family Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1569.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1018",
+    "name": "AL Sa3a Al Youm",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1568.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1019",
+    "name": "AL Sa3a Comedy",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1567.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1020",
+    "name": "AL Sa3a Musalsalat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1566.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1021",
+    "name": "AL Sa3a Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1565.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1022",
+    "name": "AL Sa3a Classic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1564.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1023",
+    "name": "AL Sa3a Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1563.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1024",
+    "name": "AL Shasha Musalslat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1562.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1025",
+    "name": "AL Shasha Classic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1561.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1026",
+    "name": "AL Shasha Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1560.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1027",
+    "name": "AL Shasha Film",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1559.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1028",
+    "name": "Zilzal Classic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1558.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1029",
+    "name": "Zilzal Al Youm",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1557.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1030",
+    "name": "Zilzal Musalsalat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1556.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1031",
+    "name": "Zilzal Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1555.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1032",
+    "name": "7besha",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1554.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1033",
+    "name": "Yalla Mosar3a",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1553.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1034",
+    "name": "M Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1552.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1035",
+    "name": "Cima Tube",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1551.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1036",
+    "name": "Cinema Tube",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1550.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1037",
+    "name": "Mosalsalat Tube",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1549.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1038",
+    "name": "Orbit Hekayat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1548.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1039",
+    "name": "Orbit Al Youm",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1547.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1040",
+    "name": "Orbit Movies",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1546.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1041",
+    "name": "Orbit Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1545.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1042",
+    "name": "Orbit Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1544.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1043",
+    "name": "Play Today",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1543.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1044",
+    "name": "Play Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1542.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1045",
+    "name": "EgyBest Comedy",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1541.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1046",
+    "name": "EgyBest Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1540.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1047",
+    "name": "EgyBest Today",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1539.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1048",
+    "name": "EgyBest Aflam",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1538.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1049",
+    "name": "EgyBest Cima",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1537.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1050",
+    "name": "EgyBest Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1536.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1051",
+    "name": "Otlob Today",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1535.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1052",
+    "name": "Otlob Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1534.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1053",
+    "name": "Otlob Aflam",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1533.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1054",
+    "name": "Otlob Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1532.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1055",
+    "name": "Otlob Zaman",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1531.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1056",
+    "name": "Otlob Hekayat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1530.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1057",
+    "name": "Al Yoom Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1529.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1058",
+    "name": "Al Yoom Hekayat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1528.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1059",
+    "name": "Al Yoom Comedy",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1527.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1060",
+    "name": "Al Yoom Aflam",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1526.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1061",
+    "name": "Al Yoom Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1525.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1062",
+    "name": "Al Yoom Zaman",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1524.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1063",
+    "name": "4G Classic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1523.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1064",
+    "name": "4G Cima",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1522.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1065",
+    "name": "4G Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1521.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1066",
+    "name": "Zilzal Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1520.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1067",
+    "name": "4G Film",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1519.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1068",
+    "name": "Beirut Al Yoom",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1518.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1069",
+    "name": "Al Kawn",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1516.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1070",
+    "name": "Mix One",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1515.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1071",
+    "name": "Mix Hollywood",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1514.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1072",
+    "name": "Sawt Al Arab",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1513.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1073",
+    "name": "Fayez Aflam",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1512.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1074",
+    "name": "Cima TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1511.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1075",
+    "name": "Oscar TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1510.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1076",
+    "name": "Fayez Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1509.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1077",
+    "name": "Al Sa3a Classic",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1508.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1078",
+    "name": "Top Movies",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1507.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1079",
+    "name": "Zaman Movies",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1506.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1080",
+    "name": "El Hadra",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1505.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1081",
+    "name": "Aswaq",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1504.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1082",
+    "name": "Aflam Tube",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1503.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1083",
+    "name": "Nogoum Cinema",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1502.m3u8",
+    "category": "أفلام",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1084",
+    "name": "EL Television 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1501.m3u8",
+    "category": "قنوات مصر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1085",
+    "name": "Dream Al Youm",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1495.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1086",
+    "name": "Melody Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1481.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1087",
+    "name": "Number One",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1479.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1088",
+    "name": "Al Sunnah Al Nabawiyah",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1467.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1089",
+    "name": "Iqraa",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1466.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1090",
+    "name": "Saudi TV HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1465.m3u8",
+    "category": "قنوات السعودية",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1091",
+    "name": "SBC HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1464.m3u8",
+    "category": "قنوات السعودية",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1092",
+    "name": "AL Quran AL Karim",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1463.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1093",
+    "name": "AL Ekhbariya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1462.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1094",
+    "name": "AL Thamina",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1461.m3u8",
+    "category": "قنوات السعودية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1095",
+    "name": "AL Thania",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1460.m3u8",
+    "category": "قنوات السعودية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1096",
+    "name": "AL Emarat TV HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1452.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1097",
+    "name": "Abu Dhabi TV HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1451.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1098",
+    "name": "Dubai TV HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1450.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1099",
+    "name": "Al Aan TV HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1449.m3u8",
+    "category": "عامة",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1100",
+    "name": "AL OULA TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1448.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1101",
+    "name": "AL Wousta",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1447.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1102",
+    "name": "Fujairah TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1446.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1103",
+    "name": "Ajman TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1445.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1104",
+    "name": "Al Dhafra",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1444.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1105",
+    "name": "Al Emarat TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1443.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1106",
+    "name": "Sharjah TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1442.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1107",
+    "name": "Al Sharqiya News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1441.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1108",
+    "name": "Dubai Zaman",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1438.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1109",
+    "name": "Noor Dubai",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1437.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1110",
+    "name": "Sama Dubai",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1436.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1111",
+    "name": "One TV Dubai",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1435.m3u8",
+    "category": "قنوات الإمارات",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1112",
+    "name": "Dubai Sports 1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1434.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1113",
+    "name": "Dubai Sports 2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1433.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1114",
+    "name": "Dubai Sports 3 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1432.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1115",
+    "name": "Oman TV General",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1402.m3u8",
+    "category": "قنوات عمان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1116",
+    "name": "Oman TV Sport",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1401.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1117",
+    "name": "Qatar TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1400.m3u8",
+    "category": "قنوات قطر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1118",
+    "name": "Al Rayyan 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1399.m3u8",
+    "category": "قنوات قطر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1119",
+    "name": "Al Rayyan 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1398.m3u8",
+    "category": "قنوات قطر",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1120",
+    "name": "Bahrain International",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1384.m3u8",
+    "category": "قنوات البحرين",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1121",
+    "name": "Kuwait TV 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1374.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1122",
+    "name": "Kuwait TV 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1373.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1123",
+    "name": "AL Majlis",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1372.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1124",
+    "name": "Kuwait Sport",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1371.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1125",
+    "name": "Kuwait Sport Plus",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1370.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1126",
+    "name": "Kuwait Ethra",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1369.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1127",
+    "name": "Kuwait AlArabi",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1368.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1128",
+    "name": "Al Qurain",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1367.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1129",
+    "name": "Al Rai",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1366.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1130",
+    "name": "Al Shahed",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1365.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1131",
+    "name": "ATV Kuwait",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1364.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1132",
+    "name": "Al Maaref",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1363.m3u8",
+    "category": "قنوات الكويت",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1133",
+    "name": "Albaghdadia News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1362.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1134",
+    "name": "Syria News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1351.m3u8",
+    "category": "قنوات سوريا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1135",
+    "name": "Syria TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1350.m3u8",
+    "category": "قنوات سوريا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1136",
+    "name": "Sama Syria",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1349.m3u8",
+    "category": "قنوات سوريا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1137",
+    "name": "Syria Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1348.m3u8",
+    "category": "قنوات سوريا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1138",
+    "name": "Syria Education",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1347.m3u8",
+    "category": "قنوات سوريا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1139",
+    "name": "Palestine TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1346.m3u8",
+    "category": "قنوات فلسطين",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1140",
+    "name": "Al Aqsa TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1345.m3u8",
+    "category": "قنوات فلسطين",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1141",
+    "name": "Rassef 24",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1344.m3u8",
+    "category": "عامة",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1142",
+    "name": "NBN Lebanon",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1335.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1143",
+    "name": "MTV Lebanon",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1334.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1144",
+    "name": "LBC International",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1333.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1145",
+    "name": "LBC Europe",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1332.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1146",
+    "name": "AL Jadeed",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1331.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1147",
+    "name": "Al Mayadeen",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1330.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1148",
+    "name": "Al Manar",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1329.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1149",
+    "name": "OTV Lebanon",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1328.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1150",
+    "name": "Tele Liban",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1327.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1151",
+    "name": "Aghani Aghani",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1326.m3u8",
+    "category": "موسيقى",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1152",
+    "name": "Hawacom",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1325.m3u8",
+    "category": "موسيقى",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1153",
+    "name": "Nour AL Shabab",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1324.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1154",
+    "name": "Noursat",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1323.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1155",
+    "name": "Mariam TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1322.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1156",
+    "name": "Charity TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1321.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1157",
+    "name": "Libya Al Ahrar",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1319.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1158",
+    "name": "Libya 218",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1318.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1159",
+    "name": "Libya 218 News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1317.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1160",
+    "name": "Libya Sport",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1316.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1161",
+    "name": "Libya Sports 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1315.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1162",
+    "name": "Libya Al Wataniya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1314.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1163",
+    "name": "Aljamahirya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1313.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1164",
+    "name": "Libya Alrasmia",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1312.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1165",
+    "name": "Libya Al Mostaqbal",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1311.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1166",
+    "name": "Libya Panorama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1310.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1167",
+    "name": "Tanasuh",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1309.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1168",
+    "name": "Al Masar",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1308.m3u8",
+    "category": "قنوات ليبيا",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1169",
+    "name": "Salam TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1307.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1170",
+    "name": "Sudan TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1196.m3u8",
+    "category": "قنوات السودان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1171",
+    "name": "Sudan Drama",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1195.m3u8",
+    "category": "دراما",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1172",
+    "name": "Sudan Sport",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1194.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1173",
+    "name": "Neelain Sport",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1193.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1174",
+    "name": "Al Balad TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1192.m3u8",
+    "category": "قنوات السودان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1175",
+    "name": "Blue Nile",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1191.m3u8",
+    "category": "قنوات السودان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1176",
+    "name": "Khartoum TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1190.m3u8",
+    "category": "قنوات السودان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1177",
+    "name": "Omdurman TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1189.m3u8",
+    "category": "قنوات السودان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1178",
+    "name": "Tayba TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1188.m3u8",
+    "category": "دينية",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1179",
+    "name": "Sudania 24",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1187.m3u8",
+    "category": "قنوات السودان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1180",
+    "name": "Al Chourouk",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1186.m3u8",
+    "category": "قنوات السودان",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1181",
+    "name": "Ashorooq News",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1185.m3u8",
+    "category": "أخبار",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1182",
+    "name": "Al Mamlaka TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1161.m3u8",
+    "category": "قنوات الأردن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1183",
+    "name": "Amman TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1160.m3u8",
+    "category": "قنوات الأردن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1184",
+    "name": "Jordan TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1159.m3u8",
+    "category": "قنوات الأردن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1185",
+    "name": "Jordan Sport",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1158.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1186",
+    "name": "Roya",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1157.m3u8",
+    "category": "قنوات الأردن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1187",
+    "name": "A1 Jordan",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1156.m3u8",
+    "category": "قنوات الأردن",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1188",
+    "name": "ON TIME SPORT",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1152.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1189",
+    "name": "ON TIME SPORT FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1151.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1190",
+    "name": "ON TIME SPORT 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1150.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1191",
+    "name": "ON TIME SPORT 2 FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1149.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1192",
+    "name": "ON TIME SPORT 3",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1148.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1193",
+    "name": "ON TIME SPORT 3 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1147.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1194",
+    "name": "AL AHLY FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1146.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1195",
+    "name": "AL ZAMALEK TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1145.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1196",
+    "name": "Al AHLY TV",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1143.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1197",
+    "name": "AD Sport 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1142.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1198",
+    "name": "AD Sport 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1141.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1199",
+    "name": "Ksa Sport 1",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1137.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+    "id": "c1200",
+    "name": "Ksa Sport 2",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1136.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "SD",
+    "isHD": false
+  },
+  {
+"id": "c1201",
+    "name": "Ksa Sport 3 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1135.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1202",
+    "name": "Ksa Sport 4 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1134.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1203",
+    "name": "Al Kass One HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1133.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1204",
+    "name": "Al Kass Two HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1132.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1205",
+    "name": "Al Kass Three HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1131.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1206",
+    "name": "Al Kass Four HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1130.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1207",
+    "name": "Al Kass Five HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1129.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1208",
+    "name": "Al Kass Six HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1128.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1209",
+    "name": "Arryadia HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1126.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1210",
+    "name": "ON TIME SPORT HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1125.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1211",
+    "name": "Al Iraqia Sport HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1123.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1212",
+    "name": "NILE SPORT HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1122.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1213",
+    "name": "SYRIA SPORT HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1121.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1214",
+    "name": "Al Fajer Sport HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1115.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1215",
+    "name": "YES SPORT1 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1109.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1216",
+    "name": "YES SPORT2 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1108.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1217",
+    "name": "YES SPORT3 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1107.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1218",
+    "name": "YES SPORT4 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1106.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1219",
+    "name": "YES Sport5 HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1103.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1220",
+    "name": "YES SPORT 5 Stars HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1102.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1221",
+    "name": "YES SPORT 5 Gold HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1101.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1222",
+    "name": "YES SPORT 5 Plus HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1104.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1223",
+    "name": "SSC NEWS Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1802.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1224",
+    "name": "SSC 1 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1801.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1225",
+    "name": "SSC 2 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1800.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1226",
+    "name": "SSC 3 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1412.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1227",
+    "name": "SSC 4 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1413.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1228",
+    "name": "SSC 5 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1414.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1229",
+    "name": "SSC 6 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1415.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1230",
+    "name": "Beirut Al Yoom HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1518.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1231",
+    "name": "Bein Baraem FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1917.m3u8",
+    "category": "أطفال",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1232",
+    "name": "NOVA KIDS FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/997.m3u8",
+    "category": "أطفال",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1233",
+    "name": "Space Toon HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1693.m3u8",
+    "category": "أطفال",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1234",
+    "name": "NOVA QURAAN FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1011.m3u8",
+    "category": "دينية",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1235",
+    "name": "Al MAJD Quran HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1772.m3u8",
+    "category": "دينية",
+    "quality": "HD",
+    "isHD": true
+  },
+  {
+    "id": "c1236",
+    "name": "Mecca FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1756.m3u8",
+    "category": "دينية",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1237",
+    "name": "NOVA HISTORY FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/976.m3u8",
+    "category": "وثائقي",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1238",
+    "name": "OSN Discovery FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1860.m3u8",
+    "category": "وثائقي",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1239",
+    "name": "Al Oula EG FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1627.m3u8",
+    "category": "قنوات مصر",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1240",
+    "name": "MBC Masr FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1641.m3u8",
+    "category": "قنوات مصر",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1241",
+    "name": "Saudi TV FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1465.m3u8",
+    "category": "قنوات السعودية",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1242",
+    "name": "SBC FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1464.m3u8",
+    "category": "قنوات السعودية",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1243",
+    "name": "Al Iraqia FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2208.m3u8",
+    "category": "قنوات العراق",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1244",
+    "name": "AL Sharqiya FHD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/2210.m3u8",
+    "category": "قنوات العراق",
+    "quality": "FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1245",
+    "name": "MBC 5 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1651.m3u8",
+    "category": "عامة",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1246",
+    "name": "MBC 3 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1650.m3u8",
+    "category": "أطفال",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1247",
+    "name": "MBC 2 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1662.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1248",
+    "name": "MBC 4 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1661.m3u8",
+    "category": "عامة",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1249",
+    "name": "MBC Max Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1654.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1250",
+    "name": "MBC Drama Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1647.m3u8",
+    "category": "دراما",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1251",
+    "name": "Rotana Cinema Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1670.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1252",
+    "name": "Rotana Khalijia Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1673.m3u8",
+    "category": "عامة",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1253",
+    "name": "Rotana Comedy Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1672.m3u8",
+    "category": "دراما",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1254",
+    "name": "Rotana Classic Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1667.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1255",
+    "name": "Rotana Drama Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1666.m3u8",
+    "category": "دراما",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1256",
+    "name": "Rotana Kids Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1665.m3u8",
+    "category": "أطفال",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1257",
+    "name": "LBC Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1674.m3u8",
+    "category": "قنوات لبنان",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1258",
+    "name": "Rotana Music Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1675.m3u8",
+    "category": "موسيقى",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1259",
+    "name": "Al Resalah Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1676.m3u8",
+    "category": "دينية",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1260",
+    "name": "Rotana Clip Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1669.m3u8",
+    "category": "موسيقى",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1261",
+    "name": "ART Aflam 1 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1833.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1262",
+    "name": "ART Aflam 2 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1832.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1263",
+    "name": "ART Hekayat 1 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1831.m3u8",
+    "category": "دراما",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1264",
+    "name": "ART Hekayat 2 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1830.m3u8",
+    "category": "دراما",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1265",
+    "name": "ART Cinema Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1833.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1266",
+    "name": "Bein Movies 1 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1936.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1267",
+    "name": "Bein Movies 2 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1937.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1268",
+    "name": "Bein Movies 3 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1938.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1269",
+    "name": "Bein Movies 4 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1939.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1270",
+    "name": "Fox Movies Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/472.m3u8",
+    "category": "أفلام",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1271",
+    "name": "Fox Action Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/472.m3u8",
+    "category": "أفلام رعب وأكشن",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1272",
+    "name": "Fox Family Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/473.m3u8",
+    "category": "أطفال",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1273",
+    "name": "OSN Movies First Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1851.m3u8",
+    "category": "OSN",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1274",
+    "name": "OSN Action Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1849.m3u8",
+    "category": "OSN",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1275",
+    "name": "OSN Comedy Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1845.m3u8",
+    "category": "OSN",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1276",
+    "name": "OSN Series First Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1843.m3u8",
+    "category": "OSN",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1277",
+    "name": "OSN Yahala Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1854.m3u8",
+    "category": "OSN",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1278",
+    "name": "OSN Yahala Cinema Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1852.m3u8",
+    "category": "OSN",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1279",
+    "name": "Nat Geo Abu Dhabi Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1755.m3u8",
+    "category": "وثائقي",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1280",
+    "name": "Nat Geo Wild Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1749.m3u8",
+    "category": "وثائقي",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1281",
+    "name": "Discovery Science Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1748.m3u8",
+    "category": "وثائقي",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1282",
+    "name": "Animal Planet Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1747.m3u8",
+    "category": "وثائقي",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1283",
+    "name": "History Channel Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1746.m3u8",
+    "category": "وثائقي",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1284",
+    "name": "Bein Sports News Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1952.m3u8",
+    "category": "أخبار",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1285",
+    "name": "Bein Sports 1 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/204112.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1286",
+    "name": "Bein Sports 2 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/934886.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1287",
+    "name": "Bein Sports 3 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/595940.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1288",
+    "name": "Bein Sports 4 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/738363.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1289",
+    "name": "Bein Sports 5 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/291247.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1290",
+    "name": "Bein Sports 6 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/780270.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1291",
+    "name": "Bein Sports 7 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/271266.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1292",
+    "name": "Bein Sports 8 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/431301.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1293",
+    "name": "Bein Sports Premium 1 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/558231.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1294",
+    "name": "Bein Sports Premium 2 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/406734.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1295",
+    "name": "Bein Sports Premium 3 Ultra HD",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/784110.m3u8",
+    "category": "رياضة (جميع الجودات)",
+    "quality": "Ultra HD",
+    "isHD": true
+  },
+  {
+    "id": "c1296",
+    "name": "NOVA QURAAN HD (H265)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1011.m3u8",
+    "category": "دينية",
+    "quality": "H265 HD",
+    "isHD": true
+  },
+  {
+    "id": "c1297",
+    "name": "Al MAJD Quran HD (H265)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1772.m3u8",
+    "category": "دينية",
+    "quality": "H265 HD",
+    "isHD": true
+  },
+  {
+    "id": "c1298",
+    "name": "Mecca FHD (H265)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1756.m3u8",
+    "category": "دينية",
+    "quality": "H265 FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1299",
+    "name": "NOVA HISTORY FHD (H265)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/976.m3u8",
+    "category": "وثائقي",
+    "quality": "H265 FHD",
+    "isHD": true
+  },
+  {
+    "id": "c1300",
+    "name": "OSN Discovery FHD (H265)",
+    "image": "assets/Image_live/LIVE.png",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1860.m3u8",
+    "category": "وثائقي",
+    "quality": "H265 FHD",
+    "isHD": true
   }
 ]
