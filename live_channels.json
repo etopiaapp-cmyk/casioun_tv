@@ -2968,7 +2968,7 @@
     "category": "قنوات إيطالية",
     "quality": "SD",
     "isHD": false
-  },
+
   {
     "id": "c431",
     "name": "Rai2",
@@ -2977,7 +2977,7 @@
     "category": "قنوات إيطالية",
     "quality": "SD",
     "isHD": false
-  },
+},
   {
     "id": "c332",
     "name": "AL Sa3aa Cinema",
@@ -2988,7 +2988,7 @@
     "isHD": false
   },
   {
-    "id": "c333",
+    "id": "c433",
     "name": "AL Shasha Musalslat",
     "image": "assets/Image_live/LIVE.png",
     "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1562.m3u8",
@@ -6264,6 +6264,7 @@
     "isHD": true
   }
 ]
+
 
 
 
