@@ -1,9 +1,9 @@
 {
-  "update_available": true,
+  "update_available": false,
   "current_version": "1.0.0",
-  "latest_version": "1.1.0",
-  "download_url": "https://github.com/yourusername/your-repo/releases/latest/download/app-release.apk",
-  "release_notes": "• إصلاح مشاكل في البث المباشر\n• تحسين الأداء العام للتطبيق\n• إضافة ميزة البحث المتقدم\n• تحسين واجهة المستخدم\n• إصلاح الأخطاء الطفيفة\n• تحسين تجربة المستخدم\n• دعم المزيد من القنوات",
+  "latest_version": "1.0.0",
+  "download_url": "",
+  "release_notes": "",
   "force_update": false,
-  "github_release": true
+  "github_release": false
 }
