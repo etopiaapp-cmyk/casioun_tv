@@ -3749,7 +3749,7 @@
     "id": "c417",
     "name": "Al Kass One HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1133.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -3758,7 +3758,7 @@
     "id": "c418",
     "name": "Al Kass Two HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1132.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -3767,7 +3767,7 @@
     "id": "c419",
     "name": "Al Kass Three HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1131.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -3776,7 +3776,7 @@
     "id": "c420",
     "name": "Al Kass Four HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1130.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -3785,7 +3785,7 @@
     "id": "c421",
     "name": "Al Kass Five HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1129.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -3794,7 +3794,7 @@
     "id": "c422",
     "name": "Al Kass Six HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1128.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -5063,7 +5063,7 @@
     "id": "c563",
     "name": "MBC Max HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1654.m3u8",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1658",
     "category": "أفلام",
     "quality": "HD",
     "isHD": true
@@ -6638,7 +6638,7 @@
     "id": "c738",
     "name": "Al Kass One",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1133.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "SD",
     "isHD": false
@@ -6647,7 +6647,7 @@
     "id": "c739",
     "name": "Al Kass Two",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1132.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "SD",
     "isHD": false
@@ -6656,7 +6656,7 @@
     "id": "c740",
     "name": "Al Kass Three",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1131.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "SD",
     "isHD": false
@@ -6665,7 +6665,7 @@
     "id": "c741",
     "name": "Al Kass Four",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1130.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "SD",
     "isHD": false
@@ -6674,7 +6674,7 @@
     "id": "c742",
     "name": "Al Kass Five",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1129.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "SD",
     "isHD": false
@@ -6683,7 +6683,7 @@
     "id": "c743",
     "name": "Al Kass Six",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1128.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "SD",
     "isHD": false
@@ -8681,7 +8681,7 @@
     "id": "c965",
     "name": "MBC MAX",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1654.m3u8",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1658",
     "category": "أفلام",
     "quality": "SD",
     "isHD": false
@@ -10823,7 +10823,7 @@
     "id": "c1203",
     "name": "Al Kass One HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1133.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -10832,7 +10832,7 @@
     "id": "c1204",
     "name": "Al Kass Two HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1132.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -10841,7 +10841,7 @@
     "id": "c1205",
     "name": "Al Kass Three HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1131.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -10850,7 +10850,7 @@
     "id": "c1206",
     "name": "Al Kass Four HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1130.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -10859,7 +10859,7 @@
     "id": "c1207",
     "name": "Al Kass Five HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1129.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -10868,7 +10868,7 @@
     "id": "c1208",
     "name": "Al Kass Six HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1128.m3u8",
+    "stream_url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
     "category": "رياضة (جميع الجودات)",
     "quality": "HD",
     "isHD": true
@@ -11237,7 +11237,7 @@
     "id": "c1249",
     "name": "MBC Max Ultra HD",
     "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1654.m3u8",
+    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/1658",
     "category": "أفلام",
     "quality": "Ultra HD",
     "isHD": true
@@ -11702,3 +11702,4 @@
     "isHD": true
   }
 ]
+
