@@ -1,87 +1,6 @@
 [
   {
 
-    "id": "c19",
-    "name": "BEIN SPORT 1 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/332188.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c20",
-    "name": "BEIN SPORT 2 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/499052.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c21",
-    "name": "BEIN SPORT 3 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/34592.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c22",
-    "name": "BEIN SPORT 4 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/914326.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c23",
-    "name": "BEIN SPORT 5 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/799894.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c24",
-    "name": "BEIN SPORT 6 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/786431.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c25",
-    "name": "BEIN SPORT 7 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/102387.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c26",
-    "name": "BEIN SPORT 8 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/543760.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
-    "id": "c27",
-    "name": "BEIN SPORT 9 SD 2M",
-    "image": "assets/Image_live/LIVE.png",
-    "stream_url": "https://es.egys.gs/qasiountv/qasiountv/703221.m3u8",
-    "category": "رياضة (جميع الجودات)",
-    "quality": "SD 2M",
-    "isHD": false
-  },
-  {
     "id": "c28",
     "name": "BEIN SPORT 1 NANO 2M",
     "image": "assets/Image_live/LIVE.png",
@@ -11540,5 +11459,6 @@
     "isHD": true
   }
 ]
+
 
 
