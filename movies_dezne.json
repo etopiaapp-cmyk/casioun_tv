@@ -2,35 +2,35 @@
   {
     "title": "OSN Disney HD",
     "category": "ديزني",
-    "image": "assets/Image_live/LIVE.png",
+    "image": "https://d.top4top.io/p_3651a275g1.jpg",
     "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1867.m3u8",
     "type": "channel"
   },
   {
     "title": "OSN Disney Junior HD",
     "category": "ديزني/أطفال",
-    "image": "assets/Image_live/LIVE.png",
+    "image": "https://d.top4top.io/p_3651a275g1.jpg",
     "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1866.m3u8",
     "type": "channel"
   },
   {
     "title": "Disney Channel",
     "category": "ديزني",
-    "image": "assets/Image_live/LIVE.png",
+    "image": "https://d.top4top.io/p_3651a275g1.jpg",
     "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/675.m3u8",
     "type": "channel"
   },
   {
     "title": "Disney+ Channel",
     "category": "ديزني/منوع",
-    "image": "assets/Image_live/LIVE.png",
+    "image": "https://d.top4top.io/p_3651a275g1.jpg",
     "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/779.m3u8",
     "type": "channel"
   },
   {
     "title": "Disney XD",
     "category": "ديزني/مغامرات",
-    "image": "assets/Image_live/LIVE.png",
+    "image": "https://d.top4top.io/p_3651a275g1.jpg",
     "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/419.m3u8",
     "type": "channel"
   },
@@ -525,4 +525,5 @@
     "type": "channel"
   }
 ]
+
 
