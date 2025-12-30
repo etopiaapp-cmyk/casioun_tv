@@ -39,7 +39,7 @@
     "title": "The Outsiders",
     "year": "1983",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/776342.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/4y7MbDdj/315x420_3327c9829764a31845eda6d9d60a013a6d3972c53bfb89251eae99b81875f25c.jpg",
     "description": "دراما عن صراع عصابات في الستينيات",
     "category": "دراما",
     "duration": "91 دقيقة",
@@ -51,7 +51,7 @@
     "title": "The Color of Money",
     "year": "1986",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/529963.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/3rzg6RYK/315x420_41bb2391428f2af6491f7562c085376cc22ffbd61704aba859327016aa6d0b5a.jpg",
     "description": "دراما عن لاعب بلياردو محترف",
     "category": "دراما",
     "duration": "119 دقيقة",
@@ -63,7 +63,7 @@
     "title": "Taps",
     "year": "1981",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/563310.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/bY4QMJpY/315x420_e5a57c8489a181bad00997d227f81b6064393287bd2cb7fb0da259f365e3f99b.jpg",
     "description": "فيلم عسكري عن طلاب أكاديمية عسكرية",
     "category": "دراما",
     "duration": "126 دقيقة",
@@ -14965,6 +14965,7 @@
     "rating": 3.9
   }
 ]
+
 
 
 
