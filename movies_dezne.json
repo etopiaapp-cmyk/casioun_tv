@@ -2,331 +2,451 @@
   {
     "title": "OSN Disney HD",
     "category": "ديزني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1867",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1867.m3u8",
     "type": "channel"
   },
   {
     "title": "OSN Disney Junior HD",
     "category": "ديزني/أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1866",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1866.m3u8",
     "type": "channel"
   },
   {
     "title": "Disney Channel",
     "category": "ديزني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/675",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/675.m3u8",
     "type": "channel"
   },
   {
     "title": "Disney+ Channel",
     "category": "ديزني/منوع",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/779",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/779.m3u8",
     "type": "channel"
   },
   {
     "title": "Disney XD",
     "category": "ديزني/مغامرات",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/419",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/419.m3u8",
     "type": "channel"
   },
   {
     "title": "Disney Cinemagic",
     "category": "ديزني/أفلام",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/397",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/397.m3u8",
     "type": "channel"
   },
   {
     "title": "Movies Disney H.265",
     "category": "ديزني/أفلام",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1798",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1798.m3u8",
     "type": "channel"
   },
   {
     "title": "Space Toon",
     "category": "أنمي/شباب",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1693",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1693.m3u8",
     "type": "channel"
   },
   {
     "title": "Mangas",
     "category": "أنمي/ياباني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/773",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/773.m3u8",
     "type": "channel"
   },
   {
     "title": "Toonami",
     "category": "أنمي/أكشن",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/767",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/767.m3u8",
     "type": "channel"
   },
   {
     "title": "J.One",
     "category": "أنمي/ثقافة يابانية",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/765",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/765.m3u8",
     "type": "channel"
   },
   {
     "title": "Game One",
     "category": "أنمي/ألعاب",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/766",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/766.m3u8",
     "type": "channel"
   },
   {
     "title": "GO BOX ANIMATION",
     "category": "كرتون/أنمي",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/2020",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/2020.m3u8",
     "type": "channel"
   },
   {
     "title": "Bein Carton Network HD",
     "category": "كرتون/نتورك",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1913",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1913.m3u8",
     "type": "channel"
   },
   {
     "title": "Cartoon Network",
     "category": "كرتون/نتورك",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1686",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1686.m3u8",
     "type": "channel"
   },
   {
     "title": "Bein Boomerang HD",
     "category": "كرتون/كلاسيك",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1912",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1912.m3u8",
     "type": "channel"
   },
   {
     "title": "Boomerang",
     "category": "كرتون/كلاسيك",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/420",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/420.m3u8",
     "type": "channel"
   },
   {
     "title": "Nickelodeon HD",
     "category": "كرتون/نيكلوديون",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1828",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1828.m3u8",
     "type": "channel"
   },
   {
     "title": "OSN Nick Toons",
     "category": "كرتون/نيكلوديون",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1822",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1822.m3u8",
     "type": "channel"
   },
   {
     "title": "OSN Nick Jr HD",
     "category": "كرتون/صغار",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1865",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1865.m3u8",
     "type": "channel"
   },
   {
     "title": "OSN Kid Zone TV HD",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1864",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1864.m3u8",
     "type": "channel"
   },
   {
     "title": "OSN Baby TV HD",
     "category": "أطفال/صغار",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1863",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1863.m3u8",
     "type": "channel"
   },
   {
     "title": "Bein Baraem HD",
     "category": "أطفال/براعم",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1917",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1917.m3u8",
     "type": "channel"
   },
   {
     "title": "Bein jeem HD",
     "category": "أطفال/جيم",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1916",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1916.m3u8",
     "type": "channel"
   },
   {
     "title": "Bein Baby HD",
     "category": "أطفال/صغار",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1915",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1915.m3u8",
     "type": "channel"
   },
   {
     "title": "Dream Works HD",
     "category": "كرتون/أفلام",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/672",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/672.m3u8",
     "type": "channel"
   },
   {
     "title": "Shahid Cartoon HD",
     "category": "كرتون/منوع",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/924",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/924.m3u8",
     "type": "channel"
   },
   {
     "title": "MBC3 HD",
     "category": "كرتون/أنمي",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1650",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1650.m3u8",
     "type": "channel"
   },
   {
     "title": "MBC JUNIOR HD",
     "category": "أطفال/أفلام",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/890",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/890.m3u8",
     "type": "channel"
   },
   {
     "title": "Majid Kids HD",
     "category": "كرتون/ماجد",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1691",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1691.m3u8",
     "type": "channel"
   },
   {
     "title": "Rotana Kids HD",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1672",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1672.m3u8",
     "type": "channel"
   },
   {
     "title": "Gulli",
     "category": "كرتون/فرنسي",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/772",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/772.m3u8",
     "type": "channel"
   },
   {
     "title": "Boing",
     "category": "كرتون",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/770",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/770.m3u8",
     "type": "channel"
   },
   {
     "title": "Teletoon",
     "category": "كرتون",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/768",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/768.m3u8",
     "type": "channel"
   },
   {
     "title": "Discovery Kids HD",
     "category": "تعليمي/كرتون",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/2011",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/2011.m3u8",
     "type": "channel"
   },
   {
     "title": "NOVA KIDS HD",
     "category": "أطفال/نوفا",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/997",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/997.m3u8",
     "type": "channel"
   },
   {
     "title": "NOVA KIDS 2 (Tom&Jerry)",
     "category": "كرتون/توم وجيري",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/996",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/996.m3u8",
     "type": "channel"
   },
   {
     "title": "Majestic Kids HD",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/880",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/880.m3u8",
     "type": "channel"
   },
   {
     "title": "MAX KIDS",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/899",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/899.m3u8",
     "type": "channel"
   },
   {
     "title": "FAMLY KIDS",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/911",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/911.m3u8",
     "type": "channel"
   },
   {
     "title": "WATCH KIDS HD",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1012",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1012.m3u8",
     "type": "channel"
   },
   {
     "title": "KidZone Max HD",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/2474",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/2474.m3u8",
     "type": "channel"
   },
   {
     "title": "Toyor Aljanah",
     "category": "أطفال/أغاني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1688",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1688.m3u8",
     "type": "channel"
   },
   {
     "title": "Kramesh Kids",
     "category": "أطفال/أغاني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1690",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1690.m3u8",
     "type": "channel"
   },
   {
     "title": "Batoot Kids",
     "category": "أطفال",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1689",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1689.m3u8",
     "type": "channel"
   },
   {
     "title": "HodHod",
     "category": "أطفال/إسلامي",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1687",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1687.m3u8",
     "type": "channel"
   },
   {
     "title": "Taha",
     "category": "أطفال/أغاني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1685",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1685.m3u8",
     "type": "channel"
   },
   {
     "title": "Atfal W Mawaheb",
     "category": "أطفال/استعراض",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1684",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1684.m3u8",
     "type": "channel"
   },
   {
     "title": "Tom & Jerry",
     "category": "كرتون",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1682",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1682.m3u8",
     "type": "channel"
   },
   {
     "title": "Canal Panda",
     "category": "أطفال/برتغالي",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/670",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/670.m3u8",
     "type": "channel"
   },
   {
     "title": "Biggs",
     "category": "شباب/برتغالي",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/673",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/673.m3u8",
     "type": "channel"
   },
   {
     "title": "SIC K",
     "category": "أطفال/برتغالي",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/689",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/689.m3u8",
     "type": "channel"
   },
   {
     "title": "Clan TVE",
     "category": "أطفال/إسباني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/578",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/578.m3u8",
     "type": "channel"
   },
   {
     "title": "KiKA",
     "category": "أطفال/ألماني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/388",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/388.m3u8",
     "type": "channel"
   },
   {
     "title": "Super RTL (TOGGO)",
     "category": "أطفال/ألماني",
-    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/361",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/361.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "GO BOX ANIMATION",
+    "category": "أنمي/كرتون",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/2020.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "NOVA KIDS 1 HD",
+    "category": "أفلام كرتون",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/997.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "NOVA KIDS 2 (Tom & Jerry)",
+    "category": "توم وجيري",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/996.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "WATCH KIDS HD",
+    "category": "أطفال/منوع",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1012.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Majestic Kids HD",
+    "category": "أفلام ديزني",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/880.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "MAX KIDS",
+    "category": "أطفال",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/899.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "FAMLY KIDS",
+    "category": "أفلام عائلية",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/911.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Rai Gulp",
+    "category": "أطفال/إيطالي",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/341.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Rai Yoyo",
+    "category": "أطفال/إيطالي",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/338.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Clan TVE",
+    "category": "أطفال/إسباني",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/578.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Canal Panda",
+    "category": "كرتون/برتغالي",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/670.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Super RTL (TOGGO)",
+    "category": "أطفال/ألماني",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/361.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "KiKA",
+    "category": "أطفال/ألماني",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/388.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Canal J",
+    "category": "أنمي/فرنسي",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/769.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Teletoon",
+    "category": "كرتون/فرنسي",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/768.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Piwi+",
+    "category": "أطفال/فرنسي",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/771.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Boing France",
+    "category": "كرتون/فرنسي",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/770.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Baby TV",
+    "category": "صغار",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/592.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Disney Junior Espana",
+    "category": "ديزني/إسباني",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/568.m3u8",
+    "type": "channel"
+  },
+  {
+    "title": "Tom & Jerry Channel",
+    "category": "كرتون كلاسيك",
+    "videoUrl": "https://es.egys.gs/qasiountv/qasiountv/1682.m3u8",
     "type": "channel"
   }
 ]
