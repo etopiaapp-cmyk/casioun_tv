@@ -9,7 +9,7 @@
     "duration": "8 Seasons",
     "type": "series",
     "rating": 9.2,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyhoK9qaCQSH.jpg",
+    "imageAsset": "https://i.postimg.cc/7Zpzpmp1/315x420_56fe01d0751a3ee58ee90d7c998092ace9eea2a3ecc37547c73b3e06644700f7.jpg",
     "episodes": [
       { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/543742.m3u8" },
       { "episodeNumber": 6, "seasonNumber": 2, "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/860416.m3u8" },
@@ -50,7 +50,7 @@
     "duration": "8 Seasons",
     "type": "series",
     "rating": 8.7,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/5rIQ3pTjWdZjauhziiwHqp7I0wu.jpg",
+    "imageAsset": "https://i.postimg.cc/qv9K9j98/OIP.jpg",
     "episodes": [
       { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/685250.m3u8" },
       { "episodeNumber": 8, "seasonNumber": 2, "title": "S02E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/739934.m3u8" },
@@ -90,7 +90,7 @@
     "duration": "9 Seasons",
     "type": "series",
     "rating": 8.5,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/vQiryp6LiofxQThTSmdKIoZ7yMb.jpg",
+    "imageAsset": "https://i.postimg.cc/8zFWKqnH/315x420_e1abbab376616fa1d3402fdafde43a6074d5c4ce3c5e872e26610264205a9614.jpg",
     "episodes": [
       { "episodeNumber": 9, "seasonNumber": 1, "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/956599.m3u8" },
       { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/554410.m3u8" },
@@ -112,7 +112,7 @@
     "duration": "7 Seasons",
     "type": "series",
     "rating": 8.6,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/1p1523a777651a75.jpg",
+    "imageAsset": "https://i.postimg.cc/0y6mWLHZ/315x420_72525bd2e909500c2ef687ddb72dadf57b0d671dc24a28df1ea2b8862251d5b8.jpg",
     "episodes": [
       { "episodeNumber": 9, "seasonNumber": 1, "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/63833.m3u8" },
       { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/676611.m3u8" },
@@ -134,7 +134,7 @@
     "duration": "10 Seasons",
     "type": "series",
     "rating": 7.5,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/hFM2T3377Qe97VbB2Z552b75V35.jpg",
+    "imageAsset": "https://i.postimg.cc/T3ym7ZHc/315x420_07eb81a738ef1fc9822e356917e8c6495428861fa04542c85ff6137d3188a3af.jpg",
     "episodes": [
       { "episodeNumber": 12, "seasonNumber": 1, "title": "S01E12", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/274681.m3u8" },
       { "episodeNumber": 12, "seasonNumber": 2, "title": "S02E12", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/702077.m3u8" },
@@ -153,7 +153,7 @@
     "duration": "15 Seasons",
     "type": "series",
     "rating": 8.4,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/KoYWXbnYuS3b0GyORY1rNVdmJ.jpg",
+    "imageAsset": "https://i.postimg.cc/DwWsjtY6/315x420_b58b57c4d2a9985c95c9e0404ded3871c108de179a89537d1e35e3c24dba63af.jpg",
     "episodes": [
       { "episodeNumber": 15, "seasonNumber": 1, "title": "S01E15", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/306277.m3u8" },
       { "episodeNumber": 15, "seasonNumber": 2, "title": "S02E15", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/527313.m3u8" },
@@ -206,3 +206,4 @@
     ]
   }
 ]
+
