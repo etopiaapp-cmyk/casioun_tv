@@ -204,5 +204,200 @@
       { "episodeNumber": 6, "seasonNumber": 4, "title": "S04E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/126021.m3u8" },
       { "episodeNumber": 6, "seasonNumber": 5, "title": "S05E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/109033.m3u8" }
     ]
+  },
+  {
+   "id": 9001,
+    "title": "Fear the Walking Dead",
+    "name": "Fear the Walking Dead",
+    "year": "2015",
+    "description": "مسلسل مشتق من 'الموتى السائرون'، يروي بداية انتشار الفيروس وتأثيره على عائلة مفككة في لوس أنجلوس تحاول النجاة.",
+    "category": "Drama, Horror, Sci-Fi",
+    "duration": "8 Seasons",
+    "rating": 6.8,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/zra8NIGxsTkqOxgTGuOwxFOtHH0.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/217819.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/474021.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/244069.m3u8" },
+      { "episodeNumber": 3, "seasonNumber": 3, "title": "S03E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/173015.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 3, "title": "S03E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/507780.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 3, "title": "S03E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/757370.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 3, "title": "S03E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/706768.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 3, "title": "S03E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/869916.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 3, "title": "S03E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/191192.m3u8" }
+    ]
+  },
+  {
+    "id": 9002,
+    "title": "The Strain",
+    "name": "The Strain",
+    "year": "2014",
+    "description": "دراما رعب تتحدث عن تفشي فيروس غامض يحول البشر إلى مصاصي دماء، ويقود طبيب وبائيات فريقاً لمكافحة هذا التهديد.",
+    "category": "Drama, Horror, Thriller",
+    "duration": "4 Seasons",
+    "rating": 7.3,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/sK9j5V4x0dD7Xl2x5lX9vX5x5l.jpg",
+    "episodes": [
+      { "episodeNumber": 3, "seasonNumber": 1, "title": "S01E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/439076.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/527348.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/750817.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/108523.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/719642.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/210934.m3u8" },
+      { "episodeNumber": 3, "seasonNumber": 2, "title": "S02E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/959564.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 2, "title": "S02E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/818234.m3u8" }
+    ]
+  },
+  {
+    "id": 9003,
+    "title": "Beauty and the Beast",
+    "name": "Beauty and the Beast",
+    "year": "2012",
+    "description": "محقق جنائي تقع في حب جندي سابق تحول إلى وحش بسبب تجربة عسكرية سرية، ويحاولان معاً كشف المؤامرات.",
+    "category": "Drama, Romance, Sci-Fi",
+    "duration": "4 Seasons",
+    "rating": 7.1,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/2kL5l2l5l2l5l2l5.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/703775.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/433096.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/950966.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/171335.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/241820.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 2, "title": "S02E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/921973.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 2, "title": "S02E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/770494.m3u8" }
+    ]
+  },
+  {
+    "id": 9004,
+    "title": "Da Vinci's Demons",
+    "name": "Da Vinci's Demons",
+    "year": "2013",
+    "description": "قصة خيالية عن الحياة المبكرة لليوناردو دافنشي في فلورنسا عصر النهضة، كفنان ومخترع عبقري يواجه مؤامرات دينية وسياسية.",
+    "category": "Adventure, Drama, Fantasy",
+    "duration": "3 Seasons",
+    "rating": 7.9,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/q3j3j3j3j3.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/265161.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/975272.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/607764.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/602695.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/284998.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 2, "title": "S02E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/514915.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 2, "title": "S02E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/716444.m3u8" }
+    ]
+  },
+  {
+    "id": 9005,
+    "title": "Castle Rock",
+    "name": "Castle Rock",
+    "year": "2018",
+    "description": "سلسلة رعب نفسي تدور أحداثها في عالم ستيفن كينج المتعدد، وتجمع بين شخصيات وقصص من أعماله الشهيرة في مدينة كاسل روك.",
+    "category": "Drama, Fantasy, Horror",
+    "duration": "2 Seasons",
+    "rating": 7.5,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/m5m5m5m5.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/526406.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/738568.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/784807.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/228671.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/442251.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 2, "title": "S02E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/877573.m3u8" }
+    ]
+  },
+  {
+    "id": 9006,
+    "title": "Constantine",
+    "name": "Constantine",
+    "year": "2014",
+    "description": "صائد شياطين ومحقق في الظواهر الخارقة يسافر عبر البلاد لمحاربة قوى الظلام وإنقاذ الأبرياء.",
+    "category": "Drama, Fantasy, Horror",
+    "duration": "1 Season",
+    "rating": 7.5,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/t5t5t5t5.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/633166.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/151886.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/321223.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/467371.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/669171.m3u8" }
+    ]
+  },
+  {
+    "id": 9007,
+    "title": "Swamp Thing",
+    "name": "Swamp Thing",
+    "year": "2019",
+    "description": "باحثة تحقق في فيروس مميت في مستنقع، لتكتشف أن المستنقع يحمل أسراراً مروعة وكائنات غامضة.",
+    "category": "Action, Adventure, Drama",
+    "duration": "1 Season",
+    "rating": 7.4,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/x5x5x5x5.jpg",
+    "episodes": [
+      { "episodeNumber": 3, "seasonNumber": 1, "title": "S01E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/7784.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/371097.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/966727.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/129465.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/276697.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/111064.m3u8" }
+    ]
+  },
+  {
+    "id": 9008,
+    "title": "Lovecraft Country",
+    "name": "Lovecraft Country",
+    "year": "2020",
+    "description": "شاب أمريكي من أصل أفريقي يسافر عبر الولايات المتحدة في الخمسينيات للبحث عن والده المفقود، مواجهاً العنصرية ووحوش لافكرافت المرعبة.",
+    "category": "Drama, Fantasy, Horror",
+    "duration": "1 Season",
+    "rating": 7.1,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/l5l5l5l5.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/433575.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/601551.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/938680.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/151146.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/650512.m3u8" }
+    ]
+  },
+  {
+    "id": 9009,
+    "title": "The Terror",
+    "name": "The Terror",
+    "year": "2018",
+    "description": "قصة خيالية مرعبة مستوحاة من أحداث حقيقية لاختفاء سفينتين تابعتين للبحرية الملكية البريطانية أثناء بحثهما عن الممر الشمالي الغربي.",
+    "category": "Adventure, Drama, Horror",
+    "duration": "2 Seasons",
+    "rating": 7.9,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/y7y7y7y7.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/807089.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/499365.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/996604.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/971937.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/873692.m3u8" },
+      { "episodeNumber": 4, "seasonNumber": 2, "title": "S02E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/710156.m3u8" }
+    ]
+  },
+  {
+    "id": 9010,
+    "title": "Marianne",
+    "name": "Marianne",
+    "year": "2019",
+    "description": "كاتبة قصص رعب تكتشف أن الشخصيات المرعبة التي ألفتها في كتبها بدأت تظهر في العالم الحقيقي وتطاردها.",
+    "category": "Drama, Horror, Mystery",
+    "duration": "1 Season",
+    "rating": 7.4,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/m1m1m1m1.jpg",
+    "episodes": [
+      { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/314358.m3u8" },
+      { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/642378.m3u8" },
+      { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/677427.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/462977.m3u8" },
+      { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/144832.m3u8" }
+    ]
   }
 ]
+
