@@ -174,7 +174,7 @@
     "duration": "6 Seasons",
     "type": "series",
     "rating": 8.5,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/g8sD3ohz4TVEndbWAnVqGj3C35x.jpg",
+    "imageAsset": "https://i.postimg.cc/bwKnK3KR/315x420_033f69ada2e50a6ebf39b70712010a1d767cdeb82b0fe7c58a34a84bc624cedb.jpg",
     "episodes": [
       { "episodeNumber": 2, "seasonNumber": 1, "title": "S01E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/635043.m3u8" },
       { "episodeNumber": 2, "seasonNumber": 2, "title": "S02E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/404033.m3u8" },
@@ -196,7 +196,7 @@
     "duration": "6 Seasons",
     "type": "series",
     "rating": 9.2,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/r8c83f9X6a392a5d2d105265.jpg",
+    "imageAsset": "https://i.postimg.cc/T3ZbZCZ9/315x420_4b70d78e080bd9ac2299f4f93766c494deb96281078a3266dba805e5cf9d6f32.jpg",
     "episodes": [
       { "episodeNumber": 6, "seasonNumber": 1, "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/596793.m3u8" },
       { "episodeNumber": 6, "seasonNumber": 2, "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/910980.m3u8" },
@@ -206,4 +206,5 @@
     ]
   }
 ]
+
 
