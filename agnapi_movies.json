@@ -231,7 +231,7 @@
     "title": "Cop Land",
     "year": "1997",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/568768.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/CM2wH19n/1_(15).jpg",
     "description": "فيلم إثارة عن شرطة فاسدة في بلدة صغيرة",
     "category": "إثارة",
     "duration": "104 دقيقة",
@@ -243,7 +243,7 @@
     "title": "Avenging Angelo",
     "year": "2002",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/388227.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/7YTwB4yC/1_(8).jpg",
     "description": "فيلم أكشن عن ابن زعيم مافيا",
     "category": "أكشن",
     "duration": "97 دقيقة",
@@ -255,7 +255,7 @@
     "title": "The Master",
     "year": "2012",
     "videoUrl": "https://es.egys.gs/movie/qasiountv/qasiountv/122869.m3u8",
-    "imageAsset": "assets/default_movie.jpg",
+    "imageAsset": "https://i.postimg.cc/ZYQJFRXy/1_(16).jpg",
     "description": "دراما عن رجل يعود من الحرب ويكتشف حركة دينية",
     "category": "دراما",
     "duration": "144 دقيقة",
@@ -14965,6 +14965,7 @@
     "rating": 3.9
   }
 ]
+
 
 
 
