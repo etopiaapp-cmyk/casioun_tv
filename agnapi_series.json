@@ -398,6 +398,178 @@
       { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/462977.m3u8" },
       { "episodeNumber": 8, "seasonNumber": 1, "title": "S01E08", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/144832.m3u8" }
     ]
+  },
+  {
+   
+"id": 10001,
+    "title": "Sherlock",
+    "name": "Sherlock",
+    "year": "2010",
+    "description": "تحديث عصري لقصص المحقق الشهير شيرلوك هولمز وشريكه الدكتور واتسون في لندن الحديثة، حيث يحلان الجرائم المعقدة.",
+    "category": "Crime, Drama, Mystery",
+    "duration": "4 Seasons",
+    "rating": 9.1,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/swNaoHWclW2uTngiBRiV1OoN6Z0.jpg",
+    "episodes": [
+      { "episodeNumber": 1, "seasonNumber": 1, "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/3973.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 2, "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/481158.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 3, "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/173892.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 4, "title": "S04E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/123382.m3u8" }
+    ]
+  },
+  {
+    "id": 10002,
+    "title": "Better Call Saul",
+    "name": "Better Call Saul",
+    "year": "2015",
+    "description": "المسلسل المشتق من 'بريكنج باد'، يروي قصة تحول المحامي الصغير جيمي ماكغيل إلى المحامي المحتال شاول غودمان.",
+    "category": "Crime, Drama",
+    "duration": "6 Seasons",
+    "rating": 9.0,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+    "episodes": [
+      { "episodeNumber": 1, "seasonNumber": 1, "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/535104.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 2, "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/609204.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 3, "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/471095.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 4, "title": "S04E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/112733.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 5, "title": "S05E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/718105.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 6, "title": "S06E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/247614.m3u8" }
+    ]
+  },
+  {
+    "id": 10003,
+    "title": "The Americans",
+    "name": "The Americans",
+    "year": "2013",
+    "description": "زوجان من الجواسيس السوفييت يتظاهران بأنهما زوجان أمريكيان عاديان في ضواحي واشنطن خلال الحرب الباردة.",
+    "category": "Crime, Drama, Mystery",
+    "duration": "6 Seasons",
+    "rating": 8.4,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/wJan336b9q72J5X4m3958QJ3w9Z.jpg",
+    "episodes": [
+      { "episodeNumber": 1, "seasonNumber": 1, "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/196786.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 2, "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/530635.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 3, "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/3889.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 4, "title": "S04E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/421001.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 5, "title": "S05E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/447982.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 6, "title": "S06E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/972121.m3u8" }
+    ]
+  },
+  {
+    "id": 10004,
+    "title": "Fargo",
+    "name": "Fargo",
+    "year": "2014",
+    "description": "سلسلة جرائم مختارة مستوحاة من فيلم كوين براذرز، تروي قصصاً مختلفة عن الجريمة والخداع في الغرب الأوسط المتجمد.",
+    "category": "Crime, Drama, Thriller",
+    "duration": "4 Seasons",
+    "rating": 8.9,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/6UsmEX5kZ35bV5Q25QJm5F7Z1.jpg",
+    "episodes": [
+      { "episodeNumber": 1, "seasonNumber": 1, "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/285800.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 2, "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/706493.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 3, "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/423620.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 4, "title": "S04E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/465371.m3u8" }
+    ]
+  },
+  {
+    "id": 10005,
+    "title": "Narcos",
+    "name": "Narcos",
+    "year": "2015",
+    "description": "نظرة واقعية على تجارة الكوكايين في كولومبيا وصعود وسقوط زعيم المخدرات الشهير بابلو إسكوبار.",
+    "category": "Biography, Crime, Drama",
+    "duration": "3 Seasons",
+    "rating": 8.8,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/rTjDo1bujWq64r3q1d72sJ9.jpg",
+    "episodes": [
+      { "episodeNumber": 1, "seasonNumber": 1, "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/303303.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 2, "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/313704.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 3, "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/879409.m3u8" }
+    ]
+  },
+  {
+    "id": 10006,
+    "title": "Dark",
+    "name": "Dark",
+    "year": "2017",
+    "description": "في بلدة ألمانية صغيرة، يكشف اختفاء طفلين عن علاقات متشابكة بين أربع عائلات وسر غامض يمتد عبر ثلاثة أجيال.",
+    "category": "Crime, Drama, Mystery",
+    "duration": "3 Seasons",
+    "rating": 8.7,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXkFbk1Z.jpg",
+    "episodes": [
+      { "episodeNumber": 1, "seasonNumber": 1, "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/337995.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 2, "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/543141.m3u8" },
+      { "episodeNumber": 1, "seasonNumber": 3, "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/243597.m3u8" }
+    ]
+  },
+  {
+    "id": 10007,
+    "title": "Outlander",
+    "name": "Outlander",
+    "year": "2014",
+    "description": "ممرضة قتالية من عام 1945 تنتقل عبر الزمن بشكل غامض إلى عام 1743 في اسكتلندا، حيث تقع في حب محارب اسكتلندي.",
+    "category": "Drama, Fantasy, Romance",
+    "duration": "6 Seasons",
+    "rating": 8.4,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/70YdbMELM4b8x8VXjlubymb2bQ0.jpg",
+    "episodes": [
+      { "episodeNumber": 7, "seasonNumber": 1, "title": "S01E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/871523.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 2, "title": "S02E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/206202.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 3, "title": "S03E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/770064.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 4, "title": "S04E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/681214.m3u8" },
+      { "episodeNumber": 7, "seasonNumber": 5, "title": "S05E07", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/788414.m3u8" }
+    ]
+  },
+  {
+    "id": 10008,
+    "title": "Hannibal",
+    "name": "Hannibal",
+    "year": "2013",
+    "description": "يستكشف العلاقة المبكرة بين الطبيب النفسي الشهير هانيبال ليكتر ومحلل جنائي شاب موهوب يطارده تعاطفه مع القتلة.",
+    "category": "Crime, Drama, Horror",
+    "duration": "3 Seasons",
+    "rating": 8.5,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/zL5h5G1Xw7Q7jK8.jpg",
+    "episodes": [
+      { "episodeNumber": 9, "seasonNumber": 1, "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/601421.m3u8" },
+      { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/887696.m3u8" },
+      { "episodeNumber": 9, "seasonNumber": 3, "title": "S03E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/139072.m3u8" }
+    ]
+  },
+  {
+    "id": 10009,
+    "title": "Seinfeld",
+    "name": "Seinfeld",
+    "year": "1989",
+    "description": "كوميديا كلاسيكية تدور حول الحياة اليومية للممثل الكوميدي جيري ساينفيلد وأصدقائه الغريبين في نيويورك.",
+    "category": "Comedy",
+    "duration": "9 Seasons",
+    "rating": 8.8,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVfZBMEn8F77h9.jpg",
+    "episodes": [
+      { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/208370.m3u8" },
+      { "episodeNumber": 9, "seasonNumber": 3, "title": "S03E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/785642.m3u8" },
+      { "episodeNumber": 9, "seasonNumber": 4, "title": "S04E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/67471.m3u8" },
+      { "episodeNumber": 9, "seasonNumber": 5, "title": "S05E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/832107.m3u8" },
+      { "episodeNumber": 9, "seasonNumber": 6, "title": "S06E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/877367.m3u8" }
+    ]
+  },
+  {
+    "id": 10010,
+    "title": "The Punisher",
+    "name": "Marvel's The Punisher",
+    "year": "2017",
+    "description": "بعد الانتقام لموت عائلته، يكشف جندي البحرية السابق فرانك كاسل مؤامرة عسكرية واسعة النطاق.",
+    "category": "Action, Crime, Drama",
+    "duration": "2 Seasons",
+    "rating": 8.5,
+    "imageAsset": "https://image.tmdb.org/t/p/w500/sEgB6m2J4923r3B0907.jpg",
+    "episodes": [
+      { "episodeNumber": 9, "seasonNumber": 1, "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/744459.m3u8" },
+      { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/380915.m3u8" }
+    ]
   }
 ]
 
