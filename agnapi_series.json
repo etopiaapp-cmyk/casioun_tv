@@ -815,7 +815,239 @@
       { "title": "S06E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/605649.m3u8" },
       { "title": "S06E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/407379.m3u8" }
     ]
+  },
+  {
+   "id": 13001,
+    "title": "24",
+    "name": "24",
+    "year": "2001",
+    "description": "عميل مكافحة الإرهاب جاك باور يسابق الزمن في سلسلة من الأحداث المثيرة، حيث يغطي كل موسم 24 ساعة من حياته.",
+    "category": "Action, Crime, Drama",
+    "rating": 8.4,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/961726.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/92645.m3u8" },
+      { "title": "S03E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/466367.m3u8" },
+      { "title": "S04E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/105739.m3u8" },
+      { "title": "S05E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/99553.m3u8" },
+      { "title": "S06E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/674996.m3u8" },
+      { "title": "S07E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/59935.m3u8" },
+      { "title": "S08E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/325700.m3u8" },
+      { "title": "S09E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/127395.m3u8" }
+    ]
+  },
+  {
+    "id": 13002,
+    "title": "Strike Back",
+    "name": "Strike Back",
+    "year": "2010",
+    "description": "وحدة استخبارات بريطانية سرية تنفذ عمليات عالية المخاطر حول العالم.",
+    "category": "Action, Drama, Thriller",
+    "rating": 8.1,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/172674.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/657599.m3u8" },
+      { "title": "S03E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/29729.m3u8" },
+      { "title": "S04E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/395360.m3u8" },
+      { "title": "S05E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/279093.m3u8" },
+      { "title": "S06E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/378403.m3u8" },
+      { "title": "S07E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/996020.m3u8" },
+      { "title": "S08E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/979603.m3u8" }
+    ]
+  },
+  {
+    "id": 13003,
+    "title": "Monk",
+    "name": "Monk",
+    "year": "2002",
+    "description": "محقق عبقري يعاني من الوسواس القهري يساعد الشرطة في حل أصعب الجرائم.",
+    "category": "Comedy, Crime, Drama",
+    "rating": 8.1,
+    "episodes": [
+      { "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/786856.m3u8" },
+      { "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/317256.m3u8" },
+      { "title": "S03E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/495603.m3u8" },
+      { "title": "S04E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/375673.m3u8" },
+      { "title": "S05E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/93366.m3u8" },
+      { "title": "S06E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/325131.m3u8" }
+    ]
+  },
+  {
+    "id": 13004,
+    "title": "New Girl",
+    "name": "New Girl",
+    "year": "2011",
+    "description": "بعد انفصال سيء، تنتقل فتاة مرحة للعيش مع ثلاثة شبان عزاب، مما يغير حياتهم جميعاً.",
+    "category": "Comedy, Romance",
+    "rating": 7.8,
+    "episodes": [
+      { "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/60950.m3u8" },
+      { "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/920602.m3u8" },
+      { "title": "S03E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/334523.m3u8" },
+      { "title": "S04E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/792622.m3u8" }
+    ]
+  },
+  {
+    "id": 13005,
+    "title": "Lucifer",
+    "name": "Lucifer",
+    "year": "2016",
+    "description": "الشيطان يتقاعد من الجحيم ليستقر في لوس أنجلوس، حيث يفتتح ملهى ليلياً ويساعد شرطية في حل الجرائم.",
+    "category": "Crime, Drama, Fantasy",
+    "rating": 8.1,
+    "episodes": [
+      { "title": "S05E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/597395.m3u8" },
+      { "title": "S06E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/120227.m3u8" }
+    ]
+  },
+  {
+    "id": 13006,
+    "title": "The Last Kingdom",
+    "name": "The Last Kingdom",
+    "year": "2015",
+    "description": "بينما يدافع ألفريد العظيم عن مملكته ضد الغزاة الاسكندنافية، يسعى أوتريد لاستعادة حقه المولد.",
+    "category": "Action, Drama, History",
+    "rating": 8.5,
+    "episodes": [
+      { "title": "S01E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/722272.m3u8" },
+      { "title": "S02E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/12396.m3u8" },
+      { "title": "S03E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/999557.m3u8" },
+      { "title": "S04E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/459801.m3u8" },
+      { "title": "S05E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/11091.m3u8" }
+    ]
+  },
+  {
+    "id": 13007,
+    "title": "Blindspot",
+    "name": "Blindspot",
+    "year": "2015",
+    "description": "يتم العثور على امرأة غامضة مغطاة بالوشم في تايمز سكوير، وكل وشم يمثل دليلاً لحل جريمة.",
+    "category": "Action, Crime, Drama",
+    "rating": 7.3,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/351818.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/207038.m3u8" },
+      { "title": "S03E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/787222.m3u8" },
+      { "title": "S04E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/364670.m3u8" },
+      { "title": "S05E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/792679.m3u8" }
+    ]
+  },
+  {
+    "id": 13008,
+    "title": "Merlin",
+    "name": "Merlin",
+    "year": "2008",
+    "description": "المغامرات المبكرة للساحر ميرلين والأمير آرثر في مملكة كاميلوت.",
+    "category": "Adventure, Drama, Fantasy",
+    "rating": 7.9,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/377755.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/322429.m3u8" },
+      { "title": "S03E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/679774.m3u8" },
+      { "title": "S04E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/47262.m3u8" },
+      { "title": "S05E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/709796.m3u8" }
+    ]
+  },
+  {
+    "id": 13009,
+    "title": "The Rain",
+    "name": "The Rain",
+    "year": "2018",
+    "description": "بعد ست سنوات من فيروس وحشي محمول بالمطر يقضي على معظم سكان اسكندنافيا، يخرج شقيقان من مخبأهما بحثاً عن الأمان.",
+    "category": "Drama, Sci-Fi, Thriller",
+    "rating": 6.3,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/594002.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/400977.m3u8" },
+      { "title": "S03E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/199343.m3u8" }
+    ]
+  },
+  {
+    "id": 13010,
+    "title": "Knightfall",
+    "name": "Knightfall",
+    "year": "2017",
+    "description": "يتناول المسلسل الأيام الأخيرة لفرسان الهيكل في القرن الرابع عشر.",
+    "category": "Action, Adventure, Drama",
+    "rating": 6.8,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/20696.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/73390.m3u8" }
+    ]
+  },
+  {
+    "id": 13011,
+    "title": "Warrior Nun",
+    "name": "Warrior Nun",
+    "year": "2020",
+    "description": "تستيقظ فتاة مراهقة في مشرحة لتكتشف أنها تمتلك قوى خارقة بصفتها حاملة الهالة المختارة لطائفة سرية من الراهبات صائدات الشياطين.",
+    "category": "Action, Drama, Fantasy",
+    "rating": 7.0,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/699042.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/932467.m3u8" }
+    ]
+  },
+  {
+    "id": 13012,
+    "title": "How to Get Away with Murder",
+    "name": "How to Get Away with Murder",
+    "year": "2014",
+    "description": "أستاذة قانون ومجموعة من طلابها الطموحين يتورطون في مؤامرة قتل ملتوية.",
+    "category": "Crime, Drama, Mystery",
+    "rating": 8.1,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/6042.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/456843.m3u8" },
+      { "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/313942.m3u8" },
+      { "title": "S04E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/28289.m3u8" },
+      { "title": "S05E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/993600.m3u8" },
+      { "title": "S06E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/223673.m3u8" }
+    ]
+  },
+  {
+    "id": 13013,
+    "title": "Undercover",
+    "name": "Undercover",
+    "year": "2019",
+    "description": "عملاء سريون يتسللون إلى عملية مخدرات كبرى.",
+    "category": "Crime, Drama, Thriller",
+    "rating": 7.8,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/443291.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/924599.m3u8" },
+      { "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/932825.m3u8" }
+    ]
+  },
+  {
+    "id": 13014,
+    "title": "Love, Death & Robots",
+    "name": "Love, Death & Robots",
+    "year": "2019",
+    "description": "سلسلة أنثولوجيا للرسوم المتحركة تتناول مواضيع مرعبة وخيالية وكوميدية.",
+    "category": "Animation, Short, Action",
+    "rating": 8.4,
+    "episodes": [
+      { "title": "S01E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/718818.m3u8" },
+      { "title": "S02E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/354364.m3u8" },
+      { "title": "S03E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/497546.m3u8" }
+    ]
+  },
+  {
+    "id": 13015,
+    "title": "Hanna",
+    "name": "Hanna",
+    "year": "2019",
+    "description": "فتاة شابة تمتلك مهارات غير عادية تحاول الهرب من عميلة استخبارات وتكتشف الحقيقة وراء هويتها.",
+    "category": "Action, Drama",
+    "rating": 7.6,
+    "episodes": [
+      { "title": "S01E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/78726.m3u8" },
+      { "title": "S02E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/227490.m3u8" },
+      { "title": "S03E06", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/103233.m3u8" }
+    ]
   }
 ]
+
 
 
