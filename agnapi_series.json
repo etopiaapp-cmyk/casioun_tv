@@ -570,6 +570,252 @@
       { "episodeNumber": 9, "seasonNumber": 1, "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/744459.m3u8" },
       { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/380915.m3u8" }
     ]
+  },
+  {
+   "id": 11005,
+    "title": "Ozark",
+    "name": "Ozark",
+    "year": "2017",
+    "description": "مستشار مالي يجر عائلته من شيكاغو إلى جبال الأوزارك في ميسوري لغسيل 500 مليون دولار لتاجر مخدرات لتهدئة غضبه.",
+    "category": "Crime, Drama, Thriller",
+    "rating": 8.5,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/105.m3u8" },
+      { "title": "S04E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/614171.m3u8" }
+    ]
+  },
+  {
+    "id": 11006,
+    "title": "Squid Game",
+    "name": "Squid Game",
+    "year": "2021",
+    "description": "مئات اللاعبين الذين يعانون من ضائقة مالية يقبلون دعوة غريبة للتنافس في ألعاب أطفال مقابل جائزة مغرية، ولكن بخطر مميت.",
+    "category": "Action, Drama, Mystery",
+    "rating": 8.0,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/106.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/556969.m3u8" }
+    ]
+  },
+  {
+    "id": 11013,
+    "title": "Sense8",
+    "name": "Sense8",
+    "year": "2015",
+    "description": "ثمانية غرباء حول العالم يجدون أنفسهم مرتبطين ببعضهم البعض عقلياً وعاطفياً.",
+    "category": "Drama, Mystery, Sci-Fi",
+    "rating": 8.3,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/113.m3u8" },
+      { "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/422103.m3u8" },
+      { "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/864493.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/999.m3u8" },
+      { "title": "S02E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/101203.m3u8" },
+      { "title": "S02E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/345084.m3u8" }
+    ]
+  },
+  {
+    "id": 11014,
+    "title": "Altered Carbon",
+    "name": "Altered Carbon",
+    "year": "2018",
+    "description": "في المستقبل حيث يمكن نقل الوعي البشري إلى أجسام مختلفة، يعود جندي سابق للحياة لحل جريمة قتل.",
+    "category": "Action, Drama, Sci-Fi",
+    "rating": 8.0,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/114.m3u8" },
+      { "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/517389.m3u8" },
+      { "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/562744.m3u8" },
+      { "title": "S02E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/811601.m3u8" },
+      { "title": "S02E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/391483.m3u8" }
+    ]
+  },
+  {
+    "id": 11016,
+    "title": "Gen V",
+    "name": "Gen V",
+    "year": "2023",
+    "description": "من عالم 'The Boys'، طلاب موهوبون يختبرون قدراتهم الأخلاقية والبدنية في جامعة خاصة للأبطال الخارقين.",
+    "category": "Action, Adventure, Comedy",
+    "rating": 7.8,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/116.m3u8" },
+      { "title": "S01E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/652554.m3u8" }
+    ]
+  },
+  {
+    "id": 11018,
+    "title": "Jack Ryan",
+    "name": "Tom Clancy's Jack Ryan",
+    "year": "2018",
+    "description": "محلل في وكالة الاستخبارات المركزية يجد نفسه في الميدان لمواجهة تهديدات عالمية خطيرة.",
+    "category": "Action, Drama, Thriller",
+    "rating": 8.1,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/640732.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/431701.m3u8" },
+      { "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/23675.m3u8" }
+    ]
+  },
+  {
+    "id": 11021,
+    "title": "Severance",
+    "name": "Severance",
+    "year": "2022",
+    "description": "مارك يقود فريقاً من الموظفين تم فصل ذكرياتهم بين العمل والحياة الشخصية جراحياً.",
+    "category": "Drama, Mystery, Sci-Fi",
+    "rating": 8.7,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/121.m3u8" },
+      { "title": "S01E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/758066.m3u8" },
+      { "title": "S01E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/998.m3u8" }
+    ]
+  },
+  {
+    "id": 11022,
+    "title": "Silo",
+    "name": "Silo",
+    "year": "2023",
+    "description": "في مستقبل مدمر، يعيش البشر في صومعة عملاقة تحت الأرض، مع قواعد صارمة يعتقدون أنها تهدف لحمايتهم.",
+    "category": "Drama, Sci-Fi",
+    "rating": 8.1,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/279728.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/467142.m3u8" }
+    ]
+  },
+  {
+    "id": 11027,
+    "title": "The Good Doctor",
+    "name": "The Good Doctor",
+    "year": "2017",
+    "description": "جراح شاب مصاب بالتوحد ومتلازمة الموهوب ينضم إلى وحدة جراحية مرموقة.",
+    "category": "Drama",
+    "rating": 8.1,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/127.m3u8" },
+      { "title": "S01E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/955880.m3u8" },
+      { "title": "S02E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/233889.m3u8" },
+      { "title": "S03E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/352209.m3u8" },
+      { "title": "S04E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/722133.m3u8" },
+      { "title": "S05E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/906088.m3u8" },
+      { "title": "S06E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/394387.m3u8" }
+    ]
+  },
+  {
+    "id": 11029,
+    "title": "9-1-1",
+    "name": "9-1-1",
+    "year": "2018",
+    "description": "يستكشف الضغوط العالية التي يواجهها ضباط الشرطة والمسعفون ورجال الإطفاء في لوس أنجلوس.",
+    "category": "Action, Drama, Thriller",
+    "rating": 7.8,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/115168.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/967310.m3u8" },
+      { "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/991432.m3u8" },
+      { "title": "S04E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/984714.m3u8" },
+      { "title": "S05E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/498151.m3u8" },
+      { "title": "S06E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/825662.m3u8" },
+      { "title": "S08E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/86999.m3u8" }
+    ]
+  },
+  {
+    "id": 12001,
+    "title": "The Americans",
+    "name": "The Americans",
+    "year": "2013",
+    "description": "جاسوسان سوفييتيان يتخفيان كزوجين أمريكيين في ضواحي واشنطن العاصمة خلال الحرب الباردة.",
+    "category": "Crime, Drama, Mystery",
+    "rating": 8.4,
+    "episodes": [
+      { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/196786.m3u8" },
+      { "title": "S01E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/207343.m3u8" },
+      { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/530635.m3u8" },
+      { "title": "S02E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/956379.m3u8" },
+      { "title": "S03E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/3889.m3u8" },
+      { "title": "S03E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/861852.m3u8" },
+      { "title": "S04E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/421001.m3u8" },
+      { "title": "S04E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/7283.m3u8" },
+      { "title": "S05E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/447982.m3u8" },
+      { "title": "S05E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/117997.m3u8" },
+      { "title": "S06E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/972121.m3u8" },
+      { "title": "S06E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/888425.m3u8" }
+    ]
+  },
+  {
+    "id": 12002,
+    "title": "Suits",
+    "name": "Suits",
+    "year": "2011",
+    "description": "شاب عبقري يترك الكلية وينجح في العمل كمساعد لأحد أفضل المحامين في نيويورك رغم عدم حصوله على شهادة قانونية.",
+    "category": "Comedy, Drama",
+    "rating": 8.5,
+    "episodes": [
+      { "title": "S01E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/948888.m3u8" },
+      { "title": "S02E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/93894.m3u8" },
+      { "title": "S03E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/411846.m3u8" },
+      { "title": "S04E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/606372.m3u8" },
+      { "title": "S05E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/893225.m3u8" },
+      { "title": "S06E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/957974.m3u8" },
+      { "title": "S07E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/250568.m3u8" },
+      { "title": "S08E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/570450.m3u8" }
+    ]
+  },
+  {
+    "id": 12003,
+    "title": "Homeland",
+    "name": "Homeland",
+    "year": "2011",
+    "description": "عميلة في وكالة الاستخبارات المركزية تشك في أن جندي مارينز تم تحريره قد تحول إلى إرهابي.",
+    "category": "Crime, Drama, Mystery",
+    "rating": 8.3,
+    "episodes": [
+      { "title": "S01E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/177317.m3u8" },
+      { "title": "S02E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/252628.m3u8" },
+      { "title": "S03E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/498844.m3u8" },
+      { "title": "S04E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/393659.m3u8" },
+      { "title": "S05E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/110942.m3u8" },
+      { "title": "S06E11", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/127733.m3u8" }
+    ]
+  },
+  {
+    "id": 12004,
+    "title": "Banshee",
+    "name": "Banshee",
+    "year": "2013",
+    "description": "لص محترف ينتحل شخصية عمدة في بلدة صغيرة في بنسلفانيا، حيث يفرض قانونه الخاص.",
+    "category": "Action, Crime, Drama",
+    "rating": 8.4,
+    "episodes": [
+      { "title": "S01E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/265348.m3u8" },
+      { "title": "S01E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/359349.m3u8" },
+      { "title": "S02E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/990450.m3u8" },
+      { "title": "S02E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/379516.m3u8" },
+      { "title": "S03E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/58856.m3u8" },
+      { "title": "S03E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/670692.m3u8" },
+      { "title": "S04E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/901154.m3u8" }
+    ]
+  },
+  {
+    "id": 12005,
+    "title": "Animal Kingdom",
+    "name": "Animal Kingdom",
+    "year": "2016",
+    "description": "شاب ينتقل للعيش مع أقاربه في بلدة شاطئية بجنوب كاليفورنيا، ليكتشف تورطهم في أنشطة إجرامية.",
+    "category": "Crime, Drama",
+    "rating": 8.2,
+    "episodes": [
+      { "title": "S01E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/269525.m3u8" },
+      { "title": "S02E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/992250.m3u8" },
+      { "title": "S03E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/842821.m3u8" },
+      { "title": "S04E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/274273.m3u8" },
+      { "title": "S05E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/485215.m3u8" },
+      { "title": "S05E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/158699.m3u8" },
+      { "title": "S06E03", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/605649.m3u8" },
+      { "title": "S06E10", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/407379.m3u8" }
+    ]
   }
 ]
+
 
