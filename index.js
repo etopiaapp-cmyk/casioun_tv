@@ -3,34 +3,36 @@ const axios = require('axios');
 const admin = require('firebase-admin');
 const cors = require('cors');
 
-// استدعاء ملف مفاتيح الخدمة (سنقوم بإنشائه في الخطوة القادمة)
+// تأكد أن هذا الملف موجود بجانب index.js
 const serviceAccount = require('./serviceAccountKey.json');
 
-// تهيئة الفايربيس بصلاحيات الأدمن
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
 });
 
 const app = express();
-app.use(cors()); // للسماح للاتصال من أي مكان
+app.use(cors());
 app.use(express.json());
 
-// 🔴 هام جداً: استبدل هذا بالمفتاح الخاص بمشروعك
-// تجده في Firebase Console -> Project Settings -> General -> Web API Key
-const FIREBASE_WEB_API_KEY = "AIzaSyDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; 
+// ==================================================================
+// 🔴🔴🔴  منطقة التعديل الحساسة  🔴🔴🔴
+// اذهب إلى Firebase Console -> Project Settings -> General
+// وانسخ "Web API Key" وضعه بين علامات التنصيص في الأسفل
+const FIREBASE_WEB_API_KEY = "AIzaSyDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; 
+// ==================================================================
 
 app.post('/login', async (req, res) => {
   const { email, password } = req.body;
 
+  console.log(`📥 محاولة دخول جديدة للإيميل: ${email}`);
+
   if (!email || !password) {
+    console.log("❌ البيانات ناقصة");
     return res.status(400).json({ error: "الرجاء إرسال الإيميل وكلمة السر" });
   }
 
   try {
-    console.log(`محاولة تسجيل دخول للإيميل: ${email}`);
-
-    // 1. التحقق من صحة الإيميل والباسورد مع سيرفرات جوجل
-    // السيرفر يقوم بهذا الطلب بدلاً من تطبيق الموبايل لتجاوز الحظر
+    // 1. التحدث مع جوجل للتأكد من الباسورد
     const googleResponse = await axios.post(
       `https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=${FIREBASE_WEB_API_KEY}`,
       {
@@ -40,26 +42,33 @@ app.post('/login', async (req, res) => {
       }
     );
 
-    // 2. إذا البيانات صحيحة، نحصل على الـ UID الخاص بالمستخدم
-    const uid = googleResponse.data.localId;
+    console.log("✅ جوجل وافق على البيانات!");
 
-    // 3. نستخدم صلاحيات الأدمن لإنشاء "توكن مخصص" (Custom Token)
-    // هذا التوكن هو الذي سيسمح للتطبيق بالدخول وتجاوز أي قيود جغرافية
+    // 2. إنشاء توكن العبور (Custom Token)
+    const uid = googleResponse.data.localId;
     const customToken = await admin.auth().createCustomToken(uid);
 
-    console.log("تم تسجيل الدخول بنجاح وإنشاء التوكن.");
-
-    // 4. إرسال التوكن للتطبيق
+    console.log("🔑 تم إنشاء التوكن وإرساله للتطبيق.");
     res.json({ token: customToken });
 
   } catch (error) {
-    console.error("خطأ في تسجيل الدخول:", error.response ? error.response.data : error.message);
-    res.status(401).json({ error: "فشل تسجيل الدخول: تأكد من الإيميل أو كلمة السر" });
+    // طباعة الخطأ بالتفصيل في الـ Logs عشان نعرف السبب
+    const errorMsg = error.response ? error.response.data.error.message : error.message;
+    console.error("❌ فشل الدخول. السبب من جوجل:", errorMsg);
+
+    if (errorMsg === "EMAIL_NOT_FOUND") {
+      res.status(400).json({ error: "اسم المستخدم غير موجود" });
+    } else if (errorMsg === "INVALID_PASSWORD") {
+      res.status(400).json({ error: "كلمة المرور خاطئة" });
+    } else if (errorMsg === "USER_DISABLED") {
+      res.status(400).json({ error: "هذا الحساب معطل" });
+    } else {
+      res.status(400).json({ error: "بيانات الدخول غير صحيحة" });
+    }
   }
 });
 
-// تشغيل السيرفر
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-}); 
+  console.log(`🚀 Server is running on port ${PORT}`);
+});
