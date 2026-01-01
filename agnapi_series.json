@@ -531,7 +531,7 @@
     "category": "Crime, Drama, Horror",
     "duration": "3 Seasons",
     "rating": 8.5,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/zL5h5G1Xw7Q7jK8.jpg",
+    "imageAsset": "https://i.postimg.cc/HkcXbyy4/315x420_dc7e5467f35c7375a86527e03901ff01a1b46315d0428fda9a3d2f71bb58262b.jpg",
     "episodes": [
       { "episodeNumber": 9, "seasonNumber": 1, "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/601421.m3u8" },
       { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/887696.m3u8" },
@@ -547,7 +547,7 @@
     "category": "Comedy",
     "duration": "9 Seasons",
     "rating": 8.8,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVfZBMEn8F77h9.jpg",
+    "imageAsset": "https://i.postimg.cc/Sx2CcMML/315x420_13c76661d6edc926a6ae216a7855f130eb5c27d77c15ab06116f5768424fe2ee.jpg",
     "episodes": [
       { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/208370.m3u8" },
       { "episodeNumber": 9, "seasonNumber": 3, "title": "S03E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/785642.m3u8" },
@@ -565,7 +565,7 @@
     "category": "Action, Crime, Drama",
     "duration": "2 Seasons",
     "rating": 8.5,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/sEgB6m2J4923r3B0907.jpg",
+    "imageAsset": "https://i.postimg.cc/dVkrGyyj/315x420_346f43ffd73cb98758b226b11e614b59643a3decbd0ebcbdacf653b42c0f50c2.jpg",
     "episodes": [
       { "episodeNumber": 9, "seasonNumber": 1, "title": "S01E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/744459.m3u8" },
       { "episodeNumber": 9, "seasonNumber": 2, "title": "S02E09", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/380915.m3u8" }
@@ -1295,6 +1295,7 @@
     ]
   }
 ]
+
 
 
 
