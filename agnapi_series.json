@@ -593,6 +593,7 @@
     "description": "مئات اللاعبين الذين يعانون من ضائقة مالية يقبلون دعوة غريبة للتنافس في ألعاب أطفال مقابل جائزة مغرية، ولكن بخطر مميت.",
     "category": "Action, Drama, Mystery",
     "rating": 8.0,
+    "imageAsset": "https://i.postimg.cc/dVkrGyyj/315x420_346f43ffd73cb98758b226b11e614b59643a3decbd0ebcbdacf653b42c0f50c2.jpg",
     "episodes": [
       { "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/106.m3u8" },
       { "title": "S02E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/556969.m3u8" }
@@ -1296,6 +1297,7 @@
     ]
   }
 ]
+
 
 
 
