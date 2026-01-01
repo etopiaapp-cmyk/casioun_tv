@@ -371,7 +371,7 @@
     "category": "Adventure, Drama, Horror",
     "duration": "2 Seasons",
     "rating": 7.9,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/y7y7y7y7.jpg",
+    "imageAsset": "https://i.postimg.cc/jqDxx40n/315x420_40cd9658df9091070c0e171408f21f6e82b57bc1ab2ec74f72d0ef897d5959ae.jpg",
     "episodes": [
       { "episodeNumber": 4, "seasonNumber": 1, "title": "S01E04", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/807089.m3u8" },
       { "episodeNumber": 5, "seasonNumber": 1, "title": "S01E05", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/499365.m3u8" },
@@ -1056,8 +1056,8 @@
     "category": "Comedy, Romance",
     "duration": "10 Seasons",
     "rating": 8.9,
-    "imageAsset": "https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
-    "backdropPath": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqo0nUEFaC.jpg",
+    "imageAsset": "https://i.postimg.cc/HWrYY9Dc/OIP.webp",
+    "backdropPath": "https://i.postimg.cc/HWrYY9Dc/OIP.webp",
     "episodes": [
       { "seasonNumber": 1, "episodeNumber": 1, "title": "S01E01", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/816436.m3u8" },
       { "seasonNumber": 1, "episodeNumber": 2, "title": "S01E02", "videoUrl": "https://es.egys.gs/series/qasiountv/qasiountv/984966.m3u8" },
@@ -1295,6 +1295,7 @@
     ]
   }
 ]
+
 
 
 
